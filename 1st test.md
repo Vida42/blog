@@ -35,7 +35,8 @@ class Solution(object):
 >>> lz = "-++++-++"
 >>> ls = Solution().generatePossibleNextMoves(lz)
 >>> print(ls)
-
+```
+```
 ---++-++ wtf
 ---++-++
 ------++ wtf
