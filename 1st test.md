@@ -31,7 +31,7 @@ class Solution(object):
 		return result
 ```
 
-```
+```python
 >>> lz = "-++++-++"
 >>> ls = Solution().generatePossibleNextMoves(lz)
 >>> print(ls)
@@ -48,7 +48,7 @@ s跟着result一起变了。`print(result[count] is s)`结果为`True`。原理�
 
 > **时间复杂度O(n)?**
 
-```
+```python
 class Solution(object):
 	def generatePossibleNextMoves(self, s):
 		"""
@@ -65,7 +65,7 @@ class Solution(object):
 ```
 
 shit，看题解少加一点判断是否为空(虽然也能执行，不过这还是个好习惯吧？)：
-```
+```python
 if not s:
     return result
 ```
@@ -73,7 +73,7 @@ if not s:
 ## 总结
 
 中间操作过程可以更简单一点：
-```
+```python
 result.append(s[:i]+'--'+s[i+2:])
 ```
 如果`i+2`超出了字符串的索引，`lz[i+2:]`就返回一个`''`
@@ -90,7 +90,7 @@ result.append(s[:i]+'--'+s[i+2:])
 
 > **时间复杂度O(n)？**
 
-```
+```python
 # 76 ms, faster than 30.33%
 
 class Solution:
@@ -135,7 +135,7 @@ class Solution:
 > **时间复杂度？**
 
 two pointers
-```
+```python
 class Solution:
 	def reverseVowels(self, s):
 		"""
@@ -154,14 +154,14 @@ class Solution:
 ```
 
 第一遍错
-```
+```python
 Input	"hello"
 Output	"hello"
 Expected	"holle"
 ```
 
 条件没理清，每个指针都分指到元音和没指到两种情况。改正：
-```
+```python
 class Solution:
 	def reverseVowels(self, s):
 		s = list(s)
@@ -179,14 +179,14 @@ class Solution:
 ```
 
 继续错：
-```
+```python
 Input	"aA"
 Output	"aA"
 Expected	"Aa"
 ```
 
 大写也算啊,加完大写字母对了
-```
+```python
 # 124 ms, faster than 26.93%
 ```
 
