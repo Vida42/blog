@@ -11,7 +11,7 @@ MMP又上锁，[这里](http://www.cnblogs.com/grandyang/p/5224896.html)看题
 那就循环……并且记住344中的python不支持item assignment
 
 以下程序有些问题
-```
+```python
 class Solution(object):
 	def generatePossibleNextMoves(self, s):
 		"""
