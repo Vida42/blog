@@ -1,4 +1,4 @@
-Leetcode Python Coding
+LCPy
 ------
 
 <table>
