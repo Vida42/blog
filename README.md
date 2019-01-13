@@ -374,8 +374,8 @@ LCPy
 5 Topics First
 ------
 
-* [string](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_string.md)：7 / 59 / 118
 * [array](https://github.com/Vida42/Leetcode/edit/master/5_topics_array.md)：3 / 59 / 152
+* [string](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_string.md)：7 / 59 / 118
 * [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：0 / 23 / 34
 * [tree](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_tree.md)：1 / 47 / 97
 * [math](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_math.md)：4 / 40 / 117
