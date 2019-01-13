@@ -1,5 +1,5 @@
-# Leetcode
-
+Leetcode Python Coding
+------
 
 <table>
 <tr>
@@ -391,18 +391,14 @@
 </tr>
 </table>
 
-Leetcode Python Coding - 5 Topics First
+5 Topics First
 ------
 
-#### [string](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_string.md)：7 / 59 / 118
-
-#### [array](https://github.com/Vida42/Leetcode/edit/master/5_topics_array.md)：3 / 59 / 152
-
-#### [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：0 / 23 / 34
-
-#### [tree](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_tree.md)：1 / 47 / 97
-
-#### [math](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_math.md)：4 / 40 / 117
+* [string](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_string.md)：7 / 59 / 118
+* [array](https://github.com/Vida42/Leetcode/edit/master/5_topics_array.md)：3 / 59 / 152
+* [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：0 / 23 / 34
+* [tree](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_tree.md)：1 / 47 / 97
+* [math](https://github.com/Vida42/Leetcode/edit/master/000._5_topics_math.md)：4 / 40 / 117
 
 每一类的题目整理来源于：[Leetcode 分类顺序表第二版](https://cspiration.com/leetcodeClassification)
 
