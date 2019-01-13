@@ -224,182 +224,150 @@ LCPy
 
 <tr>
     <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/10"> DAY 8 </a></td>
-    <td>题1</td>
-    <td>Easy</td>
+    <td>11. Container With Most Water</td>
+    <td>Medium</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>Array & Two Pointers</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>26. Remove Duplicates from Sorted Array</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>Array & Two Pointers</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>27. Remove Element</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Array & Two Pointers</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/8"> DAY 7 </a></td>
+    <td>942. DI String Match</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>Math</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>617. Merge Two Binary Trees</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>Tree</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>852. Peak Index in a Mountain Array</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Binary Search</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/7"> DAY 6 </a></td>
+    <td>944. Delete Columns to Make Sorted</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>Greedy</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>657. Robot Return to Origin</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>String</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>461. Hamming Distance</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Bit Manipulation</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/6"> DAY 5 </a></td>
+    <td>804. Unique Morse Code Words</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>String</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>905. Sort Array By Parity</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>Array</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>832. Flipping an Image</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Array</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="4"><a href="https://github.com/Vida42/Leetcode/issues/5"> DAY 4 </a></td>
+    <td>771. Jewels and Stones</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>Hash Table</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>929. Unique Email Addresses</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>String</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>709. To Lower Case</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>String</td>
+</tr>
+<tr>
+    <td>961. N-Repeated Element in Size 2N Array</td>
+    <td>Easy</td>
+    <td><a href="">解4</a></td>
+    <td>Hash Table</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="2"><a href="https://github.com/Vida42/Leetcode/issues/4"> DAY 3 </a></td>
+    <td>20. Valid Parentheses</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>String & Stack</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>21. Merge Two Sorted Lists</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
-</tr>
-<tr>
-    <td>题3</td>
-    <td>Easy</td>
-    <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Linked List</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/3"> DAY 2 </a></td>
+    <td>7. inverse integer</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
+    <td>Math</td>
 </tr>
 <tr>
-    <td>题2</td>
+    <td>9. Palindrome Number</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
-    <td>T2</td>
+    <td>Math</td>
 </tr>
 <tr>
-    <td>题3</td>
+    <td>13. Roman to Integer</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Math & String</td>
 </tr>
 
 <tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
+    <td rowspan="1"><a href="https://github.com/Vida42/Leetcode/issues/2"> DAY 1 </a></td>
+    <td>1. Two Sum</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
-    <td>T1</td>
-</tr>
-<tr>
-    <td>题2</td>
-    <td>Easy</td>
-    <td><a href="">解2</a></td>
-    <td>T2</td>
-</tr>
-<tr>
-    <td>题3</td>
-    <td>Easy</td>
-    <td><a href="">解3</a></td>
-    <td>T3</td>
-</tr>
-
-<tr>
-    <td rowspan="3"><a href=""> DAY X </a></td>
-    <td>题1</td>
-    <td>Easy</td>
-    <td><a href="">解1</a></td>
-    <td>T1</td>
-</tr>
-<tr>
-    <td>题2</td>
-    <td>Easy</td>
-    <td><a href="">解2</a></td>
-    <td>T2</td>
-</tr>
-<tr>
-    <td>题3</td>
-    <td>Easy</td>
-    <td><a href="">解3</a></td>
-    <td>T3</td>
+    <td>Array & Hash Table</td>
 </tr>
 </table>
 
