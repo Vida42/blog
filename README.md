@@ -18,6 +18,32 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/issues/22"> DAY 19 </a> </td>
+    <td>066. Plus One</td>
+    <td>Easy</td>
+    <td><a href="">解法1</a></td>
+    <td>Array & Math</td>
+</tr>
+<tr>
+    <td>125. Valid Palindrome</td>
+    <td>Easy</td>
+    <td><a href="">解法2</a></td>
+    <td>Two Pointers & String</td>
+</tr>
+<tr>
+    <td>157. Read N Characters Given Read4</td>
+    <td>[L]Easy</td>
+    <td><a href="">解法3</a></td>
+    <td>??</td>
+</tr>
+<tr>
+    <td>266. Palindrome Permutation</td>
+    <td>[L]Easy</td>
+    <td><a href="">解法4</a></td>
+    <td>??</td>
+</tr>
+
+<tr>
     <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/issues/21"> DAY 18 </a> </td>
     <td>38. Count and Say</td>
     <td>Easy</td>
