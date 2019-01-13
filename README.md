@@ -1,3 +1,10 @@
+> 1. Write down the problem.
+> 2. Think real hard.
+> 3. Write down the solution.
+> 
+>       —— “The Feynman Algorithm” as described by Murray Gell-Mann
+
+
 LCPy
 ------
 
