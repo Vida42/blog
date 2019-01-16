@@ -9,7 +9,7 @@
 | Easy |328|    Odd Even Linked List|
 | Easy |92  |Reverse Linked List II|
 | Easy |237|    Delete Node in a Linked List|
-| Easy |19  |Remove Nth Node From End of List|
+| Medium |19  |Remove Nth Node From End of List|
 | Easy |83  |Remove Duplicates from Sorted List|
 | Easy |203|    Remove Linked List Elements|
 | Medium |82  |Remove Duplicates from Sorted List II|
