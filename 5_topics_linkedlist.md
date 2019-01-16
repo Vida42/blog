@@ -6,7 +6,7 @@
 | Easy |206|    Reverse Linked List|
 | Medium |141|    Linked List Cycle|
 | Medium |24  |Swap Nodes in Pairs|
-| Easy |328|    Odd Even Linked List|
+| Medium |328|    Odd Even Linked List|
 | Medium |92  |Reverse Linked List II|
 | Easy |237|    Delete Node in a Linked List|
 | Medium |19  |Remove Nth Node From End of List|
