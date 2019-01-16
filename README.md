@@ -22,31 +22,31 @@ LCPy
     <td>83. Remove Duplicates from Sorted List</td>
     <td>Easy</td>
     <td><a href="">解法1</a></td>
-    <td>Array & Math</td>
+    <td>Linked List</td>
 </tr>
 <tr>
     <td>160. Intersection of Two Linked Lists</td>
     <td>Easy</td>
     <td><a href="">解法3</a></td>
-    <td>??</td>
+    <td>Linked List</td>
 </tr>
 <tr>
     <td>203. Remove Linked List Elements</td>
     <td>Easy</td>
     <td><a href="">解法4</a></td>
-    <td>??</td>
+    <td>Linked List</td>
 </tr>
 <tr>
     <td>206. Reverse Linked List</td>
     <td>Easy</td>
     <td><a href="">解法4</a></td>
-    <td>??</td>
+    <td>Linked List</td>
 </tr>
 <tr>
     <td>237. Delete Node in a Linked List</td>
     <td>Easy</td>
     <td><a href="">解法4</a></td>
-    <td>??</td>
+    <td>Linked List</td>
 </tr>
 <tr>
     <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/issues/22"> DAY 19 </a> </td>
