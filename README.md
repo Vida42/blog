@@ -46,7 +46,7 @@ LCPy
     <td>234. Palindrome Linked List</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/234._Palindrome_Linked_List.md">存入数组判断链表是否回文</a></td>
-    <td>Linked List</td>
+    <td>Linked List & Two Pointers</td>
 </tr>
 <tr>
     <td>237. Delete Node in a Linked List</td>
