@@ -18,34 +18,40 @@ LCPy
 </tr>
 
 <tr>
-    <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/23"> DAY 20 </a> </td>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/23"> DAY 20 </a> </td>
     <td>083. Remove Duplicates from Sorted List</td>
     <td>Easy</td>
-    <td><a href="">解法1</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/083._Remove_Duplicates_from_Sorted_List.md">每次判断下个节点是不是和当前相等</a></td>
     <td>Linked List</td>
 </tr>
 <tr>
     <td>160. Intersection of Two Linked Lists</td>
     <td>Easy</td>
-    <td><a href="">解法3</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/160._Intersection_of_Two_Linked_Lists.md">循环两个链表直到到达各自的第一相同元素</a></td>
     <td>Linked List</td>
 </tr>
 <tr>
     <td>203. Remove Linked List Elements</td>
     <td>Easy</td>
-    <td><a href="">解法4</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/203._Remove_Linked_List_Elements.md">循环遇到找到目标值跳过</a></td>
     <td>Linked List</td>
 </tr>
 <tr>
     <td>206. Reverse Linked List</td>
     <td>Easy</td>
-    <td><a href="">解法4</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/206._Reverse_Linked_List.md">迭代和递归翻转链表</a></td>
+    <td>Linked List</td>
+</tr>
+<tr>
+    <td>234. Palindrome Linked List</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/234._Palindrome_Linked_List.md">存入数组判断链表是否回文</a></td>
     <td>Linked List</td>
 </tr>
 <tr>
     <td>237. Delete Node in a Linked List</td>
     <td>Easy</td>
-    <td><a href="">解法4</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/237._Delete_Node_in_a_Linked_List.md">用next值覆盖当前再删除next</a></td>
     <td>Linked List</td>
 </tr>
 <tr>
@@ -402,7 +408,7 @@ LCPy
 <tr>
     <td>021. Merge Two Sorted Lists</td>
     <td>Easy</td>
-    <td><a href="">解2</a></td>
+    <td><a href="">一一比较与添加</a></td>
     <td>Linked List</td>
 </tr>
 
