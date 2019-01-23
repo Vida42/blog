@@ -446,7 +446,7 @@ LCPy
 
 * [array](https://github.com/Vida42/Leetcode/blob/master/5_topics_array.md)：17 / 59 / 152
 * [string](https://github.com/Vida42/Leetcode/blob/master/5_topics_string.md)：21 / 59 / 118
-* [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：0 / 23 / 34
+* [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：7 / 23 / 34
 * [tree](https://github.com/Vida42/Leetcode/blob/master/5_topics_tree.md)：1 / 47 / 97
 * [math](https://github.com/Vida42/Leetcode/blob/master/5_topics_math.md)：4 / 40 / 117
 
