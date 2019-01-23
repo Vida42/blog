@@ -19,7 +19,7 @@ LCPy
 
 <tr>
     <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/23"> DAY 20 </a> </td>
-    <td>83. Remove Duplicates from Sorted List</td>
+    <td>083. Remove Duplicates from Sorted List</td>
     <td>Easy</td>
     <td><a href="">解法1</a></td>
     <td>Linked List</td>
@@ -76,7 +76,7 @@ LCPy
 
 <tr>
     <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/issues/21"> DAY 18 </a> </td>
-    <td>38. Count and Say</td>
+    <td>038. Count and Say</td>
     <td>Easy</td>
     <td><a href="">解法1</a></td>
     <td>String</td>
@@ -120,7 +120,7 @@ LCPy
     <td>??</td>
 </tr>
 <tr>
-    <td>12. Integer to Roman</td>
+    <td>012. Integer to Roman</td>
     <td>Medium</td>
     <td><a href="">解3</a></td>
     <td>Math & String</td>
@@ -168,19 +168,19 @@ LCPy
 
 <tr>
     <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/16"> DAY 14 </a></td>
-    <td>28. Implement strStr()</td>
+    <td>028. Implement strStr()</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
     <td>Two Pointers & String</td>
 </tr>
 <tr>
-    <td>14. Longest Common Prefix</td>
+    <td>014. Longest Common Prefix</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
     <td>String</td>
 </tr>
 <tr>
-    <td>58. Length of Last Word</td>
+    <td>058. Length of Last Word</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
     <td>String</td>
@@ -200,7 +200,7 @@ LCPy
     <td>Array & Two Pointers</td>
 </tr>
 <tr>
-    <td>88. Merge Sorted Array</td>
+    <td>088. Merge Sorted Array</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
     <td>Array & Two Pointers</td>
@@ -268,13 +268,13 @@ LCPy
 
 <tr>
     <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/11"> DAY 9 </a></td>
-    <td>55. Jump Game</td>
+    <td>055. Jump Game</td>
     <td>Medium</td>
     <td><a href="">解1</a></td>
     <td>Array & Greedy</td>
 </tr>
 <tr>
-    <td>45. Jump Game II</td>
+    <td>045. Jump Game II</td>
     <td>Hard</td>
     <td><a href="">解2</a></td>
     <td>Array & Greedy</td>
@@ -288,19 +288,19 @@ LCPy
 
 <tr>
     <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/10"> DAY 8 </a></td>
-    <td>11. Container With Most Water</td>
+    <td>011. Container With Most Water</td>
     <td>Medium</td>
     <td><a href="">解1</a></td>
     <td>Array & Two Pointers</td>
 </tr>
 <tr>
-    <td>26. Remove Duplicates from Sorted Array</td>
+    <td>026. Remove Duplicates from Sorted Array</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
     <td>Array & Two Pointers</td>
 </tr>
 <tr>
-    <td>27. Remove Element</td>
+    <td>027. Remove Element</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
     <td>Array & Two Pointers</td>
@@ -394,13 +394,13 @@ LCPy
 
 <tr>
     <td rowspan="2"><a href="https://github.com/Vida42/Leetcode/issues/4"> DAY 3 </a></td>
-    <td>20. Valid Parentheses</td>
+    <td>020. Valid Parentheses</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
     <td>String & Stack</td>
 </tr>
 <tr>
-    <td>21. Merge Two Sorted Lists</td>
+    <td>021. Merge Two Sorted Lists</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
     <td>Linked List</td>
@@ -408,19 +408,19 @@ LCPy
 
 <tr>
     <td rowspan="3"><a href="https://github.com/Vida42/Leetcode/issues/3"> DAY 2 </a></td>
-    <td>7. inverse integer</td>
+    <td>007. inverse integer</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
     <td>Math</td>
 </tr>
 <tr>
-    <td>9. Palindrome Number</td>
+    <td>009. Palindrome Number</td>
     <td>Easy</td>
     <td><a href="">解2</a></td>
     <td>Math</td>
 </tr>
 <tr>
-    <td>13. Roman to Integer</td>
+    <td>013. Roman to Integer</td>
     <td>Easy</td>
     <td><a href="">解3</a></td>
     <td>Math & String</td>
@@ -428,7 +428,7 @@ LCPy
 
 <tr>
     <td rowspan="1"><a href="https://github.com/Vida42/Leetcode/issues/2"> DAY 1 </a></td>
-    <td>1. Two Sum</td>
+    <td>001. Two Sum</td>
     <td>Easy</td>
     <td><a href="">解1</a></td>
     <td>Array & Hash Table</td>
