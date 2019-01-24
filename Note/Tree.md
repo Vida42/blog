@@ -3,11 +3,26 @@
 * 二叉树：每个结点最多有两个子树的树结构。
 * 满二叉树：树中每个分支结点（非叶结点）都有两棵非空子树
 
-![满二叉树](https://github.com/Vida42/Leetcode/blob/master/Pic/cap1.PNG)
-![两棵完全二叉树](https://github.com/Vida42/Leetcode/blob/master/Pic/cap2.PNG)
+
+<p align="center">
+    <img src="https://github.com/Vida42/Leetcode/blob/master/Pic/cap1.PNG" alt="Sample"  width="256" height="128">
+    <p align="center">
+        <em>满二叉树</em>
+    </p>
+</p>
+
+
 
 
 * 完全二叉树：对于一个树高为h的二叉树，如果其第0层至第h-1层的节点都满。如果最下面一层节点不满，则所有的节点在左边的连续排列，空位都在右边。这样的二叉树就是一棵完全二叉树。
+
+<p align="center">
+    <img src="https://github.com/Vida42/Leetcode/blob/master/Pic/cap2.PNG" alt="Sample"  width="256" height="128">
+    <p align="center">
+        <em>两棵完全二叉树</em>
+    </p>
+</p>
+
 
 ## 树的遍历
 
@@ -31,3 +46,6 @@
 * 它的左右子树也分别是二叉搜索树。
 
 使用中序遍历可得到有序数组，这是二叉查找树的又一个重要特征。
+
+
+[0][完全二叉树基本知识](https://www.jianshu.com/p/a47d6ed886c8)
