@@ -32,7 +32,7 @@
 |Medium|235|  Lowest Common Ancestor of a Binary Search Tree  |preorder|
 |Medium|236|  Lowest Common Ancestor of a Binary Tree |postorder|
 |Medium|108|  Convert Sorted Array to Binary Search Tree  |binary search|
-|Easy|109|  Convert Sorted List to Binary Search Tree   |binary search|
+|Medium|109|  Convert Sorted List to Binary Search Tree   |binary search|
 |Medium|173|  Binary Search Tree Iterator |inorder|
 |Medium|230|  Kth Smallest Element in a BST   |inorder|
 |Medium|297|  Serialize and Deserialize Binary Tree   |BFS|
