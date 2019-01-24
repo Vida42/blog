@@ -5,7 +5,7 @@
 |Medium|144|  Binary Tree Preorder Traversal |preorder|
 |Medium|94    |Binary Tree Inorder Traversal  |Inorder|
 |Hard|145|  Binary Tree Postorder Traversal |postorder|
-|Easy|102|  Binary Tree Level Order Traversal   |DFS + BFS|
+|Medium|102|  Binary Tree Level Order Traversal   |DFS + BFS|
 |     |     |     |     |  **preorder/9**  |
 |Easy|100| Same Tree |preorder|
 |Easy|101| Symmetric Tree |preorder|
