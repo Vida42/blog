@@ -3,9 +3,9 @@
 |     |     |     |     |  基础/13  |
 | --- | --- | --- | --- | --- |
 | Easy |7    |Reverse Integer    ||√|
-| Easy |165| Compare Version Numbers |
+| Medium |165| Compare Version Numbers |
 | Easy |66|  Plus One    ||√|
-| Easy |8    |String to Integer (atoi)   |
+| Medium |8    |String to Integer (atoi)   |
 | Easy |258| Add Digits  |
 | Easy |67|  Add Binary  |
 | Medium |43|  Multiply Strings    |
@@ -46,3 +46,5 @@
 | Medium |368| Largest Divisible Subset|
 
 2019.1.12迁
+
+确定这是由易到难？？？以8为例都要被踩死了。且1月初8和165我标记的都是Easy呐1月底再查成Medium了。
