@@ -18,6 +18,49 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="7"> <a href="https://github.com/Vida42/Leetcode/issues/25"> DAY 22 </a> </td>
+    <td>109. Convert Sorted List to Binary Search Tree</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/100._Same_Tree.md">inorder, 快慢指针, 递归</a></td>
+    <td>Linked List & DFS</td>
+</tr>
+<tr>
+    <td>$110. Balanced Binary Tree</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/101._Symmetric_Tree.md">左右子树差不超过1且左右子树也为平衡树, 递归</a></td>
+    <td>Tree & DFS</td>
+</tr>
+<tr>
+    <td>111. Minimum Depth of Binary Tree</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/102._Binary_Tree_Level_Order_Traversal.md">edge case, 递归</a></td>
+    <td>Tree & BFS & DFS</td>
+</tr>
+<tr>
+    <td>112. Path Sum</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/104._Maximum_Depth_of_Binary_Tree.md"></a>仍然是DFS+递归</td>
+    <td>Tree & DFS</td>
+</tr>
+<tr>
+    <td>226. Invert Binary Tree</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/107._Binary_Tree_Level_Order_Traversal_II.md">递归翻转就完事儿了</a></td>
+    <td>Tree</td>
+</tr>
+<tr>
+    <td>257. Binary Tree Paths</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/108._Convert_Sorted_Array_to_Binary_Search_Tree.md">递归，非空加点，空加数组长度</a></td>
+    <td>Tree & DFS</td>
+</tr>
+<tr>
+    <td>$270. Closest Binary Search Tree Value</td>
+    <td>[L]Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/108._Convert_Sorted_Array_to_Binary_Search_Tree.md">dfs转成数组后判断……</a></td>
+    <td>??</td>
+</tr>
+<tr>
     <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/24"> DAY 21 </a> </td>
     <td>100. Same Tree</td>
     <td>Easy</td>
