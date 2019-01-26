@@ -2,9 +2,9 @@
 
 |     |     |     |     |  基础/13  |
 | --- | --- | --- | --- | --- |
-| Easy |7    |Reverse Integer    |√|
+| Easy |7    |Reverse Integer    ||√|
 | Easy |165| Compare Version Numbers |
-| Easy |66|  Plus One    |√|
+| Easy |66|  Plus One    ||√|
 | Easy |8    |String to Integer (atoi)   |
 | Easy |258| Add Digits  |
 | Easy |67|  Add Binary  |
@@ -16,8 +16,8 @@
 | Medium |365| Water and Jug Problem   |
 | Easy |204| Count Primes    |
 |     |     |     |     |  **Sum/6**  |
-| Easy |1    |Two Sum    |√|
-| Easy |167| Two Sum II - Input array is sorted |√|
+| Easy |1    |Two Sum    ||√|
+| Easy |167| Two Sum II - Input array is sorted ||√|
 | Medium |15|  3Sum    |
 | Medium |16|  3Sum Closest    |很少考|
 | Medium |259| 3Sum Smaller    |很少考|
