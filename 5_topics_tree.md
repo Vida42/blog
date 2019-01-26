@@ -9,16 +9,16 @@
 |     |     |     |     |  **preorder/9**  |
 |Easy|100| Same Tree |preorder|√|
 |Easy|101| Symmetric Tree |preorder|√|
-|Easy|226| Invert Binary Tree |preorder + BFS|
-|Easy|257| Binary Tree Paths |preorder|
-|Easy|112| Path Sum |preorder|
+|Easy|226| Invert Binary Tree |preorder + BFS|√|
+|Easy|257| Binary Tree Paths |preorder|√|
+|Easy|112| Path Sum |preorder|√|
 |Medium|113| Path Sum II |preorder|
 |Medium|129| Sum Root to Leaf Numbers |preorder|
 |Medium|298| Binary Tree Longest Consecutive Sequence |preorder|
-|Easy|111| Minimum Depth of Binary Tree |preorder|
+|Easy|111| Minimum Depth of Binary Tree |preorder|√|
 |     |     |     |     |  **Postorder/6**  |
 |Easy|104| Maximum Depth of Binary Tree |postorder|√|
-|Easy|110| Balanced Binary Tree |postorder|
+|Easy|110| Balanced Binary Tree |postorder|-[x]|
 |Hard|124| Binary Tree Maximum Path Sum |postorder|
 |Medium|250| Count Univalue Subtrees |postorder|
 |Medium|366| Find Leaves of Binary Tree |postorder|
@@ -32,12 +32,12 @@
 |Medium|235|  Lowest Common Ancestor of a Binary Search Tree  |preorder|
 |Medium|236|  Lowest Common Ancestor of a Binary Tree |postorder|
 |Easy|108|  Convert Sorted Array to Binary Search Tree  |binary search|√|
-|Medium|109|  Convert Sorted List to Binary Search Tree   |binary search|
+|Medium|109|  Convert Sorted List to Binary Search Tree   |binary search|√|
 |Medium|173|  Binary Search Tree Iterator |inorder|
 |Medium|230|  Kth Smallest Element in a BST   |inorder|
 |Medium|297|  Serialize and Deserialize Binary Tree   |BFS|
 |Medium|285|  Inorder Successor in BST    |inorder|
-|Easy|270|  Closest Binary Search Tree Value    |preorder|
+|Easy|270|  Closest Binary Search Tree Value    |preorder|-[x]|
 |Hard|272|  Closest Binary Search Tree Value II |inorder|
 |Hard|99    |Recover Binary Search Tree |inorder|
 |     |     |     |     |  **重要程度/13**  |
