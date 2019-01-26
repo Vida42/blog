@@ -527,12 +527,14 @@ LCPy
 * [array](https://github.com/Vida42/Leetcode/blob/master/5_topics_array.md)：17 / 59 / 152
 * [string](https://github.com/Vida42/Leetcode/blob/master/5_topics_string.md)：21 / 59 / 118
 * [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：7 / 23 / 34
-* [tree](https://github.com/Vida42/Leetcode/blob/master/5_topics_tree.md)：1 / 47 / 97
+* [tree](https://github.com/Vida42/Leetcode/blob/master/5_topics_tree.md)：11 / 47 / 97
 * [math](https://github.com/Vida42/Leetcode/blob/master/5_topics_math.md)：4 / 40 / 117
 
 每一类的题目整理来源于：[Leetcode 分类顺序表第二版](https://cspiration.com/leetcodeClassification)
 
-由是得 已刷`15`道 / 五类题总数`228`道 / Leetcode上五类题总数`518`道
+> 这本书是根据我个人的理解，对Leetcode中的算法题目重新进行分类划分，并以先易后难的顺序重新进行排序。旨在为大家节省时间，可以更好更有效率的做题。
+
+由是得 已刷`60`道 / 五类题总数`228`道 / Leetcode上五类题总数`518`道
 
 Reference Links
 ------
