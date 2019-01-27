@@ -29,3 +29,5 @@ A binary heap is one way to implement a priority queue. Its advantages are ease 
 [3] [Are Priority Queues really Queues?](https://stackoverflow.com/questions/19453616/are-priority-queues-really-queues)
 
 [4] [What is the difference between a priority queue and a min / max heap?](https://stackoverflow.com/questions/48795979/what-is-the-difference-between-a-priority-queue-and-a-min-max-heap)
+
+[5] [堆——神奇的优先队列(上) 【经典】]((https://www.cnblogs.com/chenweichu/articles/5710567.html))
