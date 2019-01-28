@@ -25,7 +25,7 @@ LCPy
     <td>String</td>
 </tr>
 <tr>
-    <td>8. String to Integer (atoi)</td>
+    <td>008. String to Integer (atoi)</td>
     <td>Medium</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/160._Intersection_of_Two_Linked_Lists.md">考虑各种边界情况即可</a></td>
     <td>Math & String</td>
@@ -37,7 +37,7 @@ LCPy
     <td>Math</td>
 </tr>
 <tr>
-    <td>67. Add Binary</td>
+    <td>067. Add Binary</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/206._Reverse_Linked_List.md">转成int求和再转回去</a></td>
     <td>Math & String</td>
