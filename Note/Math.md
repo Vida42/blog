@@ -3,18 +3,18 @@
 |     |     |     |     |  基础/13  |
 | --- | --- | --- | --- | --- |
 | Easy |7    |Reverse Integer    ||√|
-| Medium |165| Compare Version Numbers |
+| Medium |165| Compare Version Numbers |√|
 | Easy |66|  Plus One    ||√|
-| Medium |8    |String to Integer (atoi)   |
-| Easy |258| Add Digits  |
-| Easy |67|  Add Binary  |
+| Medium |8    |String to Integer (atoi)   |√|
+| Easy |258| Add Digits  |√|
+| Easy |67|  Add Binary  |√|
 | Medium |43|  Multiply Strings    |
 | Medium |29|  Divide Two Integers |
 | Medium |69|  Sqrt(x) |
 | Medium |50|  Pow(x, n)   |
 | Medium |367| Valid Perfect Square    |
 | Medium |365| Water and Jug Problem   |
-| Easy |204| Count Primes    |
+| Easy |204| Count Primes    |√|
 |     |     |     |     |  **Sum/6**  |
 | Easy |1    |Two Sum    ||√|
 | Easy |167| Two Sum II - Input array is sorted ||√|
