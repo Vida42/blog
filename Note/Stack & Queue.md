@@ -1,7 +1,7 @@
 
 ## Stack：0 / 11
 
-|     |     |     |    |
+|     |     |     | Stack  |
 | --- | --- | --- | --- |
 ||155|	Min Stack|
 ||232|	Implement Queue using Stacks|
