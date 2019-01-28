@@ -521,14 +521,33 @@ LCPy
 </tr>
 </table>
 
-5 Topics First
+Order
 ------
 
-* [array](https://github.com/Vida42/Leetcode/blob/master/5_topics_array.md)：17 / 59 / 152
-* [string](https://github.com/Vida42/Leetcode/blob/master/5_topics_string.md)：21 / 59 / 118
-* [linkedlist](https://github.com/Vida42/Leetcode/blob/master/5_topics_linkedlist.md)：7 / 23 / 34
-* [tree](https://github.com/Vida42/Leetcode/blob/master/5_topics_tree.md)：11 / 47 / 97
-* [math](https://github.com/Vida42/Leetcode/blob/master/5_topics_math.md)：4 / 40 / 117
+* 数组与链表Array & Linked List
+
+* 栈和队列/Stack & Queue
+
+* 树/Tree
+
+* 优先队列和堆/Heap or PriorityQueue	
+
+* 图/Graph
+
+* 哈希表/Hash Table
+
+* 动态规划/Dynamic
+
+* 贪心算法/Greedy
+
+
+其中先做5类题目：
+
+* [array](https://github.com/Vida42/Leetcode/blob/master/Note/Array%20%26%20Linked%20List.md)：17 / 59 / 152
+* [string](https://github.com/Vida42/Leetcode/blob/master/Note/String.md)：21 / 59 / 118
+* [linkedlist](https://github.com/Vida42/Leetcode/blob/master/Note/Array%20%26%20Linked%20List.md)：7 / 23 / 34
+* [tree](https://github.com/Vida42/Leetcode/blob/master/Note/Tree.md)：11 / 47 / 97
+* [math](https://github.com/Vida42/Leetcode/blob/master/Note/Math.md)：4 / 40 / 117
 
 每一类的题目整理来源于：[Leetcode 分类顺序表第二版](https://cspiration.com/leetcodeClassification)
 
