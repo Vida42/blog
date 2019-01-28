@@ -43,7 +43,7 @@ LCPy
     <td>Math & String</td>
 </tr>
 <tr>
-    <td>204. Count Primes</td>
+    <td>$204. Count Primes</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/234._Palindrome_Linked_List.md">埃拉托斯特尼筛法</a></td>
     <td>Hash Table & Math</td>
