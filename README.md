@@ -21,31 +21,31 @@ LCPy
     <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/26"> DAY 23 </a> </td>
     <td>165. Compare Version Numbers</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/083._Remove_Duplicates_from_Sorted_List.md">转化成int数组判断，考虑各种情况</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/165._Compare_Version_Numbers.md">转化成int数组判断，考虑各种情况</a></td>
     <td>String</td>
 </tr>
 <tr>
     <td>008. String to Integer (atoi)</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/160._Intersection_of_Two_Linked_Lists.md">考虑各种边界情况即可</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/008._String_to_Integer_(atoi).md">考虑各种边界情况即可</a></td>
     <td>Math & String</td>
 </tr>
 <tr>
     <td>258. Add Digits</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/203._Remove_Linked_List_Elements.md">循环</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/258._Add_Digits.md">循环</a></td>
     <td>Math</td>
 </tr>
 <tr>
     <td>067. Add Binary</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/206._Reverse_Linked_List.md">转成int求和再转回去</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/067._Add_Binary.md">转成int求和再转回去</a></td>
     <td>Math & String</td>
 </tr>
 <tr>
     <td>$204. Count Primes</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/234._Palindrome_Linked_List.md">埃拉托斯特尼筛法</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/204._Count_Primes.md">埃拉托斯特尼筛法</a></td>
     <td>Hash Table & Math</td>
 </tr>
 <tr>
