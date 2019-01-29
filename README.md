@@ -21,31 +21,31 @@ LCPy
     <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/27"> DAY 24 </a> </td>
     <td>002. Add Two Numbers</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/165._Compare_Version_Numbers.md">链表各位加，注意分是否大于10两种情况</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/002._Add_Two_Numbers.md">链表各位加，注意分是否大于10两种情况</a></td>
     <td>Linked List & Math</td>
 </tr>
 <tr>
     <td>029. Divide Two Integers</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/008._String_to_Integer_(atoi).md">位运算与二分法</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/029._Divide_Two_Integers.md">位运算与二分法</a></td>
     <td>Math & Binary Search</td>
 </tr>
 <tr>
     <td>069. Sqrt(x)</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/258._Add_Digits.md">牛顿法或二分查找</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/069._Sqrt(x).md">牛顿法或二分查找</a></td>
     <td>Math & Binary Search</td>
 </tr>
 <tr>
     <td>050. Pow(x, n)</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/067._Add_Binary.md">递归实现二分查找</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/050._Pow(x%2C_n).md">递归实现二分查找</a></td>
     <td>Math & Binary Search</td>
 </tr>
 <tr>
     <td>043. Multiply Strings</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/067._Add_Binary.md">各位相乘后相加</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/043._Multiply_Strings.md">各位相乘后相加</a></td>
     <td>Math & String</td>
 </tr>
 <tr>
