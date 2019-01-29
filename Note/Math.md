@@ -8,10 +8,10 @@
 | Medium |8    |String to Integer (atoi)   ||√|
 | Easy |258| Add Digits  ||√|
 | Easy |67|  Add Binary  ||√|
-| Medium |43|  Multiply Strings    |
-| Medium |29|  Divide Two Integers |
-| Medium |69|  Sqrt(x) |
-| Medium |50|  Pow(x, n)   |
+| Medium |43|  Multiply Strings    ||√|
+| Medium |29|  Divide Two Integers ||√|
+| Medium |69|  Sqrt(x) ||√|
+| Medium |50|  Pow(x, n)   ||√|
 | Medium |367| Valid Perfect Square    |
 | Medium |365| Water and Jug Problem   |
 | Easy |204| Count Primes    ||√|
