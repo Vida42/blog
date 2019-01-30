@@ -18,6 +18,43 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/28"> DAY 25 </a> </td>
+    <td>015. 3Sum</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/015._3Sum.md">固定值+双指针</a></td>
+    <td>Array & Two Pointers</td>
+</tr>
+<tr>
+    <td>018. 4Sum</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/018._4Sum.md">我寻思我也妹用到哈希表啊(总结里有)</a></td>
+    <td>Array & Hash Table & Two Pointers</td>
+</tr>
+<tr>
+    <td>136. Single Number</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/136._Single_Number.md">位运算</a></td>
+    <td>Hash Table & Bit Manipulation</td>
+</tr>
+<tr>
+    <td>371. Sum of Two Integers</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/371._Sum_of_Two_Integers.md">^求值，&求进位</a></td>
+    <td>Bit Manipulation</td>
+</tr>
+<tr>
+    <td>977. Squares of a Sorted Array</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/977._Squares_of_a_Sorted_Array.md">sorted([i*i for i in A])</a></td>
+    <td>Array & Two Pointers & Sort</td>
+</tr>
+<tr>
+    <td>53. Maximum Subarray</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/053._Maximum_Subarray.md">解法重点完全在后两个tag好吧:)</a></td>
+    <td>Array & Divide and Conquer & Dynamic Programming</td>
+</tr>
+<tr>
     <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/27"> DAY 24 </a> </td>
     <td>002. Add Two Numbers</td>
     <td>Medium</td>
@@ -605,17 +642,17 @@ Order
 
 其中先做5类题目：
 
-* [array](https://github.com/Vida42/Leetcode/blob/master/Note/Array%20%26%20Linked%20List.md)：17 / 59 / 152
+* [array](https://github.com/Vida42/Leetcode/blob/master/Note/Array%20%26%20Linked%20List.md)：18 / 59 / 152
 * [string](https://github.com/Vida42/Leetcode/blob/master/Note/String.md)：21 / 59 / 118
 * [linkedlist](https://github.com/Vida42/Leetcode/blob/master/Note/Array%20%26%20Linked%20List.md)：7 / 23 / 34
 * [tree](https://github.com/Vida42/Leetcode/blob/master/Note/Tree.md)：11 / 47 / 97
-* [math](https://github.com/Vida42/Leetcode/blob/master/Note/Math.md)：4 / 40 / 117
+* [math](https://github.com/Vida42/Leetcode/blob/master/Note/Math.md)：15 / 40 / 117
 
 每一类的题目整理来源于：[Leetcode 分类顺序表第二版](https://cspiration.com/leetcodeClassification)
 
 > 这本书是根据我个人的理解，对Leetcode中的算法题目重新进行分类划分，并以先易后难的顺序重新进行排序。旨在为大家节省时间，可以更好更有效率的做题。
 
-由是得 已刷`60`道 / 五类题总数`228`道 / Leetcode上五类题总数`518`道
+由是得 已刷`72`道 / 五类题总数`228`道 / Leetcode上五类题总数`518`道
 
 Reference Links
 ------
