@@ -52,7 +52,7 @@
 || |      ||  **Counter/9**  |
 || hard |239|   Sliding Window Maximum  |
 || hard |295|   Find Median from Data Stream    |
-|| easy |53 |Maximum Subarray   |
+|- [x]| easy |53 |Maximum Subarray   |
 || medium |325| Maximum Size Subarray Sum Equals k  |
 || medium |209| Minimum Size Subarray Sum   |
 || medium |238| Product of Array Except Self    |
