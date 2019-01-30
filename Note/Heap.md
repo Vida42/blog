@@ -19,7 +19,7 @@ A binary heap is one way to implement a priority queue. Its advantages are ease 
 
 也就是说：
 
-优先队列，名字里带队列，形式上是一种队列的形式，但其实是一种独立的抽象数据类型，可以用二叉堆这种特殊的树结构实现。
+**优先队列，名字里带队列，形式上是一种队列的形式，但其实是一种独立的抽象数据类型，可以用二叉堆这种特殊的树结构实现。**
 
 
 ![最小堆](https://github.com/Vida42/Leetcode/blob/master/Pic/min-heap.png)
