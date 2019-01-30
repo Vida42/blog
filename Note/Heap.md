@@ -42,11 +42,11 @@ A binary heap is one way to implement a priority queue. Its advantages are ease 
 
 |     |     |     |    |  PriorityQueue  |
 | --- | --- | --- | --- | --- |
-||215|	Kth Largest Element in an Array	|||
-||347|	Top K Frequent Elements	|||
-||313|	Super Ugly Number	|很少考||
-||373|	Find K Pairs with Smallest Sums	|很少考||
-||218|	The Skyline Problem	|||
-||332|	Reconstruct Itinerary	|||
-||341|	Flatten Nested List Iterator|||
+|Medium|215|	Kth Largest Element in an Array	|||
+|Medium|347|	Top K Frequent Elements	|||
+|Medium|313|	Super Ugly Number	|很少考||
+|Medium|373|	Find K Pairs with Smallest Sums	|很少考||
+|Hard|218|	The Skyline Problem	|||
+|Medium|332|	Reconstruct Itinerary	|||
+|Medium|341|	Flatten Nested List Iterator|||
 
