@@ -1,4 +1,4 @@
-## Math： 9 / 40
+## Math： 15 / 40
 
 |     |     |     |     |  基础/13  |
 | --- | --- | --- | --- | --- |
@@ -18,10 +18,10 @@
 |     |     |     |     |  **Sum/6**  |
 | Easy |1    |Two Sum    ||√|
 | Easy |167| Two Sum II - Input array is sorted ||√|
-| Medium |15|  3Sum    |
+| Medium |15|  3Sum    ||√|
 | Medium |16|  3Sum Closest    |很少考|
 | Medium |259| 3Sum Smaller    |很少考|
-| Medium |18|  4Sum    |
+| Medium |18|  4Sum    ||√|
 |     |     |     |     |  **很少考/21**  |
 | Easy |231| Power of Two    |
 | Easy |326| Power of Three  |
