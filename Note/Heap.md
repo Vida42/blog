@@ -17,6 +17,11 @@ Priority queue is an abstract data type (an interface definition) that defines t
 
 A binary heap is one way to implement a priority queue. Its advantages are ease of implementation and that it is reasonably efficient. It's not necessarily the most efficient way to implement a priority queue (see below). Whereas a heap is definitely a priority queue, by no means is it true that a priority queue is a heap. [[4]](https://stackoverflow.com/questions/48795979/what-is-the-difference-between-a-priority-queue-and-a-min-max-heap)
 
+也就是说：
+
+优先队列，名字里带队列，形式上是一种队列的形式，但其实是一种独立的抽象数据类型，可以用二叉堆这种特殊的树结构实现。
+
+
 ![最小堆](https://github.com/Vida42/Leetcode/blob/master/Pic/min-heap.png)
 
 
