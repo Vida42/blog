@@ -17,6 +17,26 @@ LCPy
     <td><b>Topics</b></td>
 </tr>
 
+
+<tr>
+    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/29"> DAY 26 </a> </td>
+    <td>438. Find All Anagrams in a String</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/015._3Sum.md">固定值+双指针</a></td>
+    <td>Hash Table</td>
+</tr>
+<tr>
+    <td>215. Kth Largest Element in an Array</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/018._4Sum.md">1.堆 2.快排</a></td>
+    <td>Divide and Conquer & Heap</td>
+</tr>
+<tr>
+    <td>347. Top K Frequent Elements</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/136._Single_Number.md">1.字典&堆 2.python的Counter</a></td>
+    <td>Hash Table & Heap</td>
+</tr>
 <tr>
     <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/28"> DAY 25 </a> </td>
     <td>015. 3Sum</td>
