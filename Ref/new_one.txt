@@ -1,0 +1,394 @@
+2	Add Two Numbers	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79379626
+3	Longest Substring Without Repeating Characters	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82022530
+5	Longest Palindromic Substring	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79573621
+6	ZigZag Conversion	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80830509
+7	Reverse Integer	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79258815
+11	Container With Most Water	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82822939
+12	Integer to Roman	C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/48210399
+15	3Sum	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83115850
+16	3Sum Closest	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83116781
+17	Letter Combinations of a Phone Number	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79363119
+18	4Sum	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83543296
+19	Remove Nth Node From End of List	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80786149
+23	Merge k Sorted Lists	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83068632
+31	Next Permutation	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82113409
+33	Search in Rotated Sorted Array	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79534213
+34	Find First and Last Position of Element in Sorted Array	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83273084
+36	Valid Sudoku	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82813653
+39	Combination Sum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79322462
+43	Multiply Strings	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80681702
+45	Jump Game II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84578893
+47	Permutations II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79513261
+48	Rotate Image	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79451733
+49	Group Anagrams	Python & Java & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/69831375
+50	Pow(x, n)	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82960833
+51	N-Queens	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85227593
+52	N-Queens II	Python & C+	 https://blog.csdn.net/fuxuemingzhu/article/details/79517109
+54	Spiral Matrix	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79541501
+55	Jump Game	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83504437
+56	Merge Intervals	Python & C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/69078468
+58	Length of Last Word	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/77530874
+59	Spiral Matrix II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79541687
+60	Permutation Sequence	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80658810
+61	Rotate List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80788107
+62	Unique Paths	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79337352
+63	Unique Paths II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83154114
+64	Minimum Path Sum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82620422
+71	Simplify Path	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80812350
+72	Edit Distance	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/84935585
+73	Set Matrix Zeroes	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82852620
+74	Search a 2D Matrix	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79459200
+75	Sort Colors	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79392195
+76	Minimum Window Substring	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82931106
+77	Combinations	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79515180
+78	Subsets	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79359540
+79	Word Search	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79386066
+81	Search in Rotated Sorted Array II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83214278
+82	Remove Duplicates from Sorted List II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80786545
+84	Largest Rectangle in Histogram	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82977472
+85	Maximal Rectangle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82993139
+86	Partition List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80793501
+87	Scramble String	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/84950326
+89	Gray Code	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80664204
+90	Subsets II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79785548
+91	Decode Ways	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82120874
+92	Reverse Linked List II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80794665
+93	Restore IP Addresses	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80657420
+95	Unique Binary Search Trees II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80778651
+96	Unique Binary Search Trees	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79367789
+98	Validate Binary Search Tree	Python ＆ C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/70209865
+99	Recover Binary Search Tree	Python	  https://blog.csdn.net/fuxuemingzhu/article/details/79672901
+102	Binary Tree Level Order Traversal	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79616156
+102	Binary Tree Level Order Traversal	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79616156
+105	Construct Binary Tree from Preorder and Inorder Traversal	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80775173
+106	Construct Binary Tree from Inorder and Postorder Traversal	empty	 https://blog.csdn.net/fuxuemingzhu/article/details/79533462
+109	Convert Sorted List to Binary Search Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80785093
+113	Path Sum II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80779574
+113	Path Sum II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80779574
+114	Flatten Binary Tree to Linked List	Python & C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/70241424
+116	Populating Next Right Pointers in Each Node	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79559645
+117	Populating Next Right Pointers in Each Node II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79560379
+120	Triangle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82883187
+123	Best Time to Buy and Sell Stock III	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84640318
+127	Word Ladder	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82903681
+129	Sum Root to Leaf Numbers	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79369956
+131	Palindrome Partitioning	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79574462
+137	Single Number II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79554959
+138	Copy List with Random Pointer	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80787528
+139	Word Break	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79368360
+140	Word Break II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85089275
+142	Linked List Cycle II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79530638
+143	Reorder List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80805434
+144	Binary Tree Preorder Traversal	Python & C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/72575422
+147	Insertion Sort List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80785630
+148	Sort List	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79630742
+149	Max Points on a Line	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83927183
+150	Evaluate Reverse Polish Notation	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79559703
+151	Reverse Words in a String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80810249
+152	Maximum Product Subarray	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83211451
+153	Find Minimum in Rotated Sorted Array	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79533470
+154	Find Minimum in Rotated Sorted Array II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79536203
+160	Intersection of Two Linked Lists	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/77631784
+162	Find Peak Element	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79633332
+165	Compare Version Numbers	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80821268
+166	Fraction to Recurring Decimal	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82533218
+173	Binary Search Tree Iterator	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79436947
+174	Dungeon Game	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85341002
+187	Repeated DNA Sequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83017233
+188	Best Time to Buy and Sell Stock IV	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84671154
+199	Binary Tree Right Side View	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79557632
+200	Number of Islands	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/81126995
+201	Bitwise AND of Numbers Range	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79495633
+204	Count Primes	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/49279897
+207	Course Schedule	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82951771
+209	Minimum Size Subarray Sum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83063096
+210	Course Schedule II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83302328
+211	Add and Search Word - Data structure design	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79390052
+212	Word Search II	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85226976
+213	House Robber II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82982325
+214	Shortest Palindrome	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83662869
+215	Kth Largest Element in an Array	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79264797
+216	Combination Sum III	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79343681
+221	Maximal Square	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82992233
+222	Count Complete Tree Nodes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80781666
+223	Rectangle Area	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82973125
+224	Basic Calculator	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84133441
+226	Invert Binary Tree	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/51284488
+227	Basic Calculator II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80826333
+228	Summary Ranges	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79774373
+229	Majority Element II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83501323
+230	Kth Smallest Element in a BST	C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/69947495
+236	Lowest Common Ancestor of a Binary Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80778001
+237	Delete Node in a Linked List	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/51285004
+240	Search a 2D Matrix II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79459314
+241	Different Ways to Add Parentheses	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79568487
+264	Ugly Number II	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/49231615
+274	H-Index	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82949663
+275	H-Index II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82949743
+278	First Bad Version	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79255764
+279	Perfect Squares	C++ & Java	 https://blog.csdn.net/fuxuemingzhu/article/details/51284292
+284	Peeking Iterator	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82867276
+287	Find the Duplicate Number	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79530847
+289	Game of Life	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82809923
+297	Serialize and Deserialize Binary Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79571892
+299	Bulls and Cows	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82872065
+300	Longest Increasing Subsequence	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79820919
+304	Range Sum Query 2D - Immutable	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83537572
+306	Additive Number	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80661715
+309	Best Time to Buy and Sell Stock with Cooldown	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82656899
+310	Minimum Height Trees	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83548874
+312	Burst Balloons	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82928879
+316	Remove Duplicate Letters	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86063211
+318	Maximum Product of Word Lengths	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80932597
+319	Bulb Switcher	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79449208
+322	Coin Change	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83592442
+328	Odd Even Linked List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79569396
+329	Longest Increasing Path in a Matrix	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82917210
+331	Verify Preorder Serialization of a Binary Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79537797
+332	Reconstruct Itinerary	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83551204
+334	Increasing Triplet Subsequence	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79826703
+336	Palindrome Pairs	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83616356
+337	House Robber III	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80779068
+341	Flatten Nested List Iterator	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79529982
+343	Integer Break	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80486238
+357	Count Numbers with Unique Digits	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80552049
+358	Rearrange String k Distance Apart	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83039098
+363	Max Sum of Rectangle No Larger Than K	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83014580
+365	Water and Jug Problem	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83574784
+367	Valid Perfect Square	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/71159714
+368	Largest Divisible Subset	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83027364
+372	Super Pow	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82961114
+373	Find K Pairs with Smallest Sums	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79564362
+375	Guess Number Higher or Lower II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82893656
+376	Wiggle Subsequence	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82902655
+377	Combination Sum IV	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79343825
+378	Kth Smallest Element in a Sorted Matrix	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79566558
+380	Insert Delete GetRandom O(1)	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82732532
+382	Linked List Random Node	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79488113
+384	Shuffle an Array	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79391342
+385	Mini Parser	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79538653
+386	Lexicographical Numbers	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81776094
+388	Longest Absolute File Path	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82841402
+390	Elimination Game	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79526571
+392	Is Subsequence	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79568772
+393	UTF-8 Validation	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82963310
+394	Decode String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79332894
+395	Longest Substring with At Least K Repeating Characters	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82889933
+396	Rotate Function	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83002609
+397	Integer Replacement	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79495908
+398	Random Pick Index	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79540576
+399	Evaluate Division	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82591165
+402	Remove K Digits	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81034522
+412	Fizz Buzz	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/53980890
+413	Arithmetic Slices	Python &Ｃ++	 https://blog.csdn.net/fuxuemingzhu/article/details/79404220
+414	Third Maximum Number	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79255652
+416	Partition Equal Subset Sum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79787425
+417	Pacific Atlantic Water Flow	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82917037
+423	Reconstruct Original Digits from English	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79542812
+424	Longest Repeating Character Replacement	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79527303
+429	N-ary Tree Level Order Traversal	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81022170
+430	Flatten a Multilevel Doubly Linked List	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81985172
+433	Minimum Genetic Mutation	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82903720
+435	Non-overlapping Intervals	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82728387
+436	Find Right Interval	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82693883
+445	Add Two Numbers II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79380457
+449	Serialize and Deserialize BST	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79529337
+450	Delete Node in a BST	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79670068
+452	Minimum Number of Arrows to Burst Balloons	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79888836
+456	132 Pattern	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81869398
+467	Unique Substrings in Wraparound String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83088406
+468	Validate IP Address	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80682716
+470	Implement Rand10() Using Rand7()	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/81809478
+472	Concatenated Words	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85062261
+473	Matchsticks to Square	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79787660
+474	Ones and Zeroes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82825032
+477	Total Hamming Distance	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79494653
+478	Generate Random Point in a Circle	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/83051190
+479	Largest Palindrome Product	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79402325
+481	Magical String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82502599
+485	Max Consecutive Ones	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/54561859
+486	Predict the Winner	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82527350
+491	Increasing Subsequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79827505
+494	Target Sum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80484450
+497	Random Point in Non-overlapping Rectangles	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83098201
+498	Diagonal Traverse	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82528226
+503	Next Greater Element II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79463006
+507	Perfect Number	Python & Java & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/72283666
+516	Longest Palindromic Subsequence	Java	 https://blog.csdn.net/fuxuemingzhu/article/details/79572746
+518	Coin Change 2	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82845212
+519	Random Flip Matrix	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83188258
+521	Longest Uncommon Subsequence I	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79398536
+522	Longest Uncommon Subsequence II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82109638
+525	Contiguous Array	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82667054
+528	Random Pick with Weight	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81807215
+539	Minimum Time Difference	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80525152
+554	Brick Wall	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80526298
+556	Next Greater Element III	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82113731
+560	Subarray Sum Equals K	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82767119
+567	Permutation in String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82876662
+575	Distribute Candies	Java & Python	 https://blog.csdn.net/fuxuemingzhu/article/details/71412550
+576	Out of Boundary Paths	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83447155
+583	Delete Operation for Two Strings	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79821305
+592	Fraction Addition and Subtraction	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80655459
+593	Valid Square	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82781255
+605	Can Place Flowers	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79253848
+609	Find Duplicate File in System	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79434941
+611	Valid Triangle Number	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82630898
+621	Task Scheduler	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/81947087
+622	Design Circular Queue	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/81027583
+623	Add One Row to Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79645198
+632	Smallest Range	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82932656
+633	Sum of Square Numbers	python & Java & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/77531867
+636	Exclusive Time of Functions	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79537000
+638	Shopping Offers	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82504050
+640	Solve the Equation	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80656224
+641	Design Circular Deque	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81027989
+646	Maximum Length of Pair Chain	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79826524
+649	Dota2 Senate	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82876061
+650	2 Keys Keyboard	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79574774
+652	Find Duplicate Subtrees	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81053453
+658	Find K Closest Elements	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82968136
+659	Split Array into Consecutive Subsequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82185009
+659	Split Array into Consecutive Subsequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82185009
+662	Maximum Width of Binary Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79645897
+669	Trim a Binary Search Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83869684
+672	Bulb Switcher II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79451356
+673	Number of Longest Increasing Subsequence	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79822126
+678	Valid Parenthesis String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80680990
+684	Redundant Connection	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80487064
+688	Knight Probability in Chessboard	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82747623
+689	Maximum Sum of 3 Non-Overlapping Subarrays	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82947707
+692	Top K Frequent Words	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79559691
+698	Partition to K Equal Sum Subsets	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79498277
+698	Partition to K Equal Sum Subsets	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79498277
+714	Best Time to Buy and Sell Stock with Transaction Fee	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/79888528
+718	Maximum Length of Repeated Subarray	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82632558
+721	Accounts Merge	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82913712
+722	Remove Comments	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79540349
+725	Split Linked List in Parts	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79543931
+726	Number of Atoms	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82938164
+729	My Calendar I	empty	 https://blog.csdn.net/fuxuemingzhu/article/details/79364606
+730	Count Different Palindromic Subsequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84176682
+731	My Calendar II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82820204
+732	My Calendar III	empty	 https://blog.csdn.net/fuxuemingzhu/article/details/79369148
+735	Asteroid Collision	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/81079015
+738	Monotone Increasing Digits	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82721627
+752	Open the Lock	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82703064
+753	Cracking the Safe	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82945477
+756	Pyramid Transition Matrix	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82469175
+760	Find Anagram Mappings	empty	 https://blog.csdn.net/fuxuemingzhu/article/details/79051744
+761	Special Binary String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82924394
+764	Largest Plus Sign	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82725695
+765	Couples Holding Hands	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82919096
+767	Reorganize String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80680454
+768	Max Chunks To Make Sorted II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82934816
+773	Sliding Puzzle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82919580
+775	Global and Local Inversions	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82915149
+777	Swap Adjacent in LR String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83538485
+778	Swim in Rising Water	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82926674
+779	K-th Symbol in Grammar	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82848294
+785	Is Graph Bipartite?	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82788401
+787	Cheapest Flights Within K Stops	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83307822
+790	Domino and Tromino Tiling	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83059602
+792	Number of Matching Subsequences	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82834760
+794	Valid Tic-Tac-Toe State	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83053972
+795	Number of Subarrays with Bounded Maximum	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82708723
+799	Champagne Tower	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83444553
+801	Minimum Swaps To Make Sequences Increasing	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83269027
+802	Find Eventual Safe States	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82749341
+808	Soup Servings	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82997932
+809	Expressive Words	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80678582
+812	Largest Triangle Area	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/79869193
+813	Largest Sum of Averages	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82698505
+816	Ambiguous Coordinates	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80677194
+820	Short Encoding of Words	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81142984
+822	Card Flipping Game	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82861796
+823	Binary Trees With Factors	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83536814
+825	Friends Of Appropriate Ages	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83183022
+826	Most Profit Assigning Work	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83104442
+829	Consecutive Numbers Sum	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85838367
+831	Masking Personal Information	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80644199
+833	Find And Replace in String	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81094404
+835	Image Overlap	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82597238
+836	Rectangle Overlap	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80472764
+837	New 21 Game	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83615241
+838	Push Dominoes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82714928
+842	Split Array into Fibonacci Sequence	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80662840
+845	Longest Mountain in Array	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83422260
+846	Hand of Straights	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82530857
+847	Shortest Path Visiting All Nodes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82939203
+848	Shifting Letters	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/80644702
+851	Loud and Rich	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82533658
+853	Car Fleet	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81867361
+855	Exam Room	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83141523
+857	Minimum Cost to Hire K Workers	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82942731
+859	Buddy Strings	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/80916203
+862	Shortest Subarray with Sum at Least K	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85112389
+863	All Nodes Distance K in Binary Tree	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82709619
+869	Reordered Power of 2	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82468653
+870	Advantage Shuffle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82796298
+873	Length of Longest Fibonacci Subsequence	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82715323
+875	Koko Eating Bananas	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82716042
+877	Stone Game	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/82390672
+880	Decoded String at Index	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/81977433
+881	Boats to Save People	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82806311
+886	Possible Bipartition	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82827177
+887	Super Egg Drop	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83818068
+888	Fair Candy Swap	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82013077
+895	Maximum Frequency Stack	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82752010
+896	Monotonic Array	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82348997
+898	Bitwise ORs of Subarrays	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83511833
+899	Orderly Queue	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82940527
+900	RLE Iterator	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82757347
+901	Online Stock Span	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82781059
+904	Fruit Into Baskets	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82906745
+906	Super Palindromes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83684637
+910	Smallest Range II	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/84998077
+911	Online Election	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82833704
+913	Cat and Mouse	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83350880
+915	Partition Array into Disjoint Intervals	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82914423
+916	Word Subsets	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/82914193
+923	3Sum With Multiplicity	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83045983
+926	Flip String to Monotone Increasing	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83247054
+930	Binary Subarrays With Sum	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83478995
+931	Minimum Falling Path Sum	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83479398
+932	Beautiful Array	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83539773
+934	Shortest Bridge	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83716820
+935	Knight Dialer	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83716573
+939	Minimum Area Rectangle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83961509
+940	Distinct Subsequences II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/83962167
+942	DI String Match	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84206493
+944	Delete Columns to Make Sorted	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84206638
+945	Minimum Increment to Make Array Unique	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84495213
+948	Bag of Tokens	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84498305
+949	Largest Time for Given Digits	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84728534
+950	Reveal Cards In Increasing Order	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84728767
+951	Flip Equivalent Binary Trees	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84728645
+952	Largest Component Size by Common Factor	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85015411
+953	Verifying an Alien Dictionary	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84924672
+954	Array of Doubled Pairs	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/84925747
+957	Prison Cells After N Days	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/85032587
+958	Check Completeness of a Binary Tree	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85032299
+959	Regions Cut By Slashes	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/85039057
+961	N-Repeated Element in Size 2N Array	Python & C+++	 https://blog.csdn.net/fuxuemingzhu/article/details/85223404
+962	Maximum Width Ramp	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/85223568
+963	Minimum Area Rectangle II	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/85223775
+965	Univalued Binary Tree	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85385974
+966	Vowel Spellchecker	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/85389781
+967	Numbers With Same Consecutive Differences	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85387183
+968	Binary Tree Cameras	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85987492
+969	Pancake Sorting	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85937314
+970	Powerful Integers	Python & C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85933995
+971	Flip Binary Tree To Match Preorder Traversal	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/85939252
+973	K Closest Points to Origin	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/86425412
+974	Subarray Sums Divisible by K	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86438244
+975	Odd Even Jump	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86439744
+976	Largest Perimeter Triangle	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/86426988
+977	Squares of a Sorted Array	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86562765
+978	Longest Turbulent Subarray	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86563567
+979	Distribute Coins in Binary Tree	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86563872
+980	Unique Paths III	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86564010
+981	Time Based Key-Value Store	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/86667114
+982	Triples with Bitwise AND Equal To Zero	C++	 https://blog.csdn.net/fuxuemingzhu/article/details/86667263
+983	Minimum Cost For Tickets	C++	  https://blog.csdn.net/fuxuemingzhu/article/details/86697224
+984	String Without AAA or BBB	Python	 https://blog.csdn.net/fuxuemingzhu/article/details/86666918
