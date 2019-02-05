@@ -240,8 +240,7 @@
 | 345. Reverse Vowels of a String| Easy | [使用栈进行翻转，或者使用双指针](https://blog.csdn.net/fuxuemingzhu/article/details/51291677) |
 | 347. Top K Frequent Elements| Medium | [使用字典统计次数，使用优先级队列实现排序](https://blog.csdn.net/fuxuemingzhu/article/details/79294073) |
 | 349. Intersection of Two Arrays| Easy | [用两个set求交集，然后转成List即可](https://blog.csdn.net/fuxuemingzhu/article/details/54236183) |
-| 350. Intersection of Two Arrays II| Easy | [先排序然后用两个指针移动找出数组交集](https://blog.csdn.net/fuxuemingzhu/article/details/54341965) |
-| 350. Intersection of Two Arrays II| Easy | [可以排序，也可以使用字典统计次数](https://blog.csdn.net/fuxuemingzhu/article/details/54341965) |
+| 350. Intersection of Two Arrays II| Easy | [先排序然后用两个指针移动找出数组交集，也可以使用字典统计次数](https://blog.csdn.net/fuxuemingzhu/article/details/54341965) |
 | 355. Design Twitter| Medium | [使用优先级队列弹出最新的内容](https://blog.csdn.net/fuxuemingzhu/article/details/82155420) |
 | 357. Count Numbers with Unique Digits|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/80552049) |
 | 358. Rearrange String k Distance Apart|  | [Python]( https://blog.csdn.net/fuxuemingzhu/article/details/83039098) |
