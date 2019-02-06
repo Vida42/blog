@@ -39,7 +39,7 @@ LCPy
 <tr>
     <td>350. Intersection of Two Arrays II</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/350._Intersection_of_Two_Arrays_II">字典；排序后双指针</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/350._Intersection_of_Two_Arrays_II.md">字典；排序后双指针</a></td>
     <td>Hash Table & Two Pointers & Binary Search & Sort</td>
 </tr>
 <tr>
