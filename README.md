@@ -17,24 +17,135 @@ LCPy
     <td><b>Topics</b></td>
 </tr>
 
-
+<tr>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/32"> DAY 29 </a> </td>
+    <td>172. Factorial Trailing Zeroes</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/172._Factorial_Trailing_Zeroes.md">数有多少个因子5</a></td>
+    <td>Math</td>
+</tr>
+<tr>
+    <td>342. Power of Four</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/342._Power_of_Four.md">1.递归 2.对数 3. 二进制性质</a></td>
+    <td>Bit Manipulation</td>
+</tr>
+<tr>
+    <td>349. Intersection of Two Arrays</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/349._Intersection_of_Two_Arrays.md">python的set后求交转list</a></td>
+    <td>Hash Table & Two Pointers & Binary Search & Sort</td>
+</tr>
+<tr>
+    <td>350. Intersection of Two Arrays II</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/350._Intersection_of_Two_Arrays_II">字典；排序后双指针</a></td>
+    <td>Hash Table & Two Pointers & Binary Search & Sort</td>
+</tr>
+<tr>
+    <td>367. Valid Perfect Square</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/367._Valid_Perfect_Square.md">二分查找；等差数列性质；牛顿法</a></td>
+    <td>Math& Binary Search</td>
+</tr>
+<tr>
+    <td>374. Guess Number Higher or Lower</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/374._Guess_Number_Higher_or_Lower.md">二分查找</a></td>
+    <td>Binary Search</td>
+</tr>
+<tr>
+    <td rowspan="10"> <a href="https://github.com/Vida42/Leetcode/issues/31"> DAY 28 </a> </td>
+    <td>141. Linked List Cycle</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/141._Linked_List_Cycle.md">双指针</a></td>
+    <td>Linked List & Two Pointers</td>
+</tr>
+<tr>
+    <td>190. Reverse Bits</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/190._Reverse_Bits
+.md">转为二进制，拼满32位，翻转，转为整形</a></td>
+    <td>Bit Manipulation</td>
+</tr>
+<tr>
+    <td>191. Number of 1 Bits</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/191._Number_of_1_Bits.md">1.count 2.利用x&x-1每次都会把最右边的1变成0</a></td>
+    <td>Bit Manipulation</td>
+</tr>
+<tr>
+    <td>202. Happy Number</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/202._Happy_Number.md">迭代或递归</a></td>
+    <td>Hash Table & Math</td>
+</tr>
+<tr>
+    <td>231. Power of Two</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/231._Power_of_Two.md">二进制性质</a></td>
+    <td>Math & Bit Manipulation</td>
+</tr>
+<tr>
+    <td>326. Power of Three</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/326._Power_of_Three.md">1.递归 2.对数</a></td>
+    <td>Math</td>
+</tr>
+<tr>
+    <td>263. Ugly Number</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/263._Ugly_Number.md">除去因子2，3，5即可</a></td>
+    <td>Math</td>
+</tr>
+<tr>
+    <td>268. Missing Number</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/268._Missing_Number.md">1.等差数列求和公式 2.相同的数异或结果为0</a></td>
+    <td>Array & Math & Bit Manipulation</td>
+</tr>
+<tr>
+    <td>278. First Bad Version</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/278._First_Bad_Version.md">二分查找</a></td>
+    <td>Binary Search</td>
+</tr>
+<tr>
+    <td>292. Nim Game</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/292._Nim_Game.md">数学题……</a></td>
+    <td>Brainteaser</td>
+</tr>
+<tr>
+    <td rowspan="2"> <a href="https://github.com/Vida42/Leetcode/issues/30"> DAY 27 </a> </td>
+    <td>035. Search Insert Position</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/035._Search_Insert_Position.md">二分查找</a></td>
+    <td>Array & Binary Search</td>
+</tr>
+<tr>
+    <td>070. Climbing Stairs</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/070._Climbing_Stairs.md">动态规划等</a></td>
+    <td>Dynamic Programming</td>
+</tr>
 <tr>
     <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/29"> DAY 26 </a> </td>
     <td>438. Find All Anagrams in a String</td>
     <td>Easy</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/015._3Sum.md">固定值+双指针</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/438._Find_All_Anagrams_in_a_String.md">固定值+双指针</a></td>
     <td>Hash Table</td>
 </tr>
 <tr>
     <td>215. Kth Largest Element in an Array</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/018._4Sum.md">1.堆 2.快排</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/215._Kth_Largest_Element_in_an_Array.md">1.堆 2.快排</a></td>
     <td>Divide and Conquer & Heap</td>
 </tr>
 <tr>
     <td>347. Top K Frequent Elements</td>
     <td>Medium</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/136._Single_Number.md">1.字典&堆 2.python的Counter</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/347._Top_K_Frequent_Elements.md">1.字典&堆 2.python的Counter</a></td>
     <td>Hash Table & Heap</td>
 </tr>
 <tr>
