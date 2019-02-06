@@ -18,7 +18,7 @@ LCPy
 </tr>
 
 <tr>
-    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/32"> DAY 29 </a> </td>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/32"> :black_square_button: DAY 29 </a> </td>
     <td>172. Factorial Trailing Zeroes</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/172._Factorial_Trailing_Zeroes.md">数有多少个因子5</a></td>
@@ -55,7 +55,7 @@ LCPy
     <td>Binary Search</td>
 </tr>
 <tr>
-    <td rowspan="10"> <a href="https://github.com/Vida42/Leetcode/issues/31"> DAY 28 </a> </td>
+    <td rowspan="10"> <a href="https://github.com/Vida42/Leetcode/issues/31"> :black_square_button:DAY 28 </a> </td>
     <td>141. Linked List Cycle</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/141._Linked_List_Cycle.md">双指针</a></td>
@@ -117,7 +117,7 @@ LCPy
     <td>Brainteaser</td>
 </tr>
 <tr>
-    <td rowspan="2"> <a href="https://github.com/Vida42/Leetcode/issues/30"> DAY 27 </a> </td>
+    <td rowspan="2"> <a href="https://github.com/Vida42/Leetcode/issues/30"> :black_square_button:DAY 27 </a> </td>
     <td>035. Search Insert Position</td>
     <td>Easy</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/035._Search_Insert_Position.md">二分查找</a></td>
