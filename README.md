@@ -18,6 +18,55 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="8"> <a href="https://github.com/Vida42/Leetcode/issues/33"> :black_square_button: DAY 30 </a> </td>
+    <td>389. Find the Difference</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/389._Find_the_Difference.md">字典；异或</a></td>
+    <td>Hash Table & Bit Manipulation</td>
+</tr>
+<tr>
+    <td>400. Nth Digit</td>
+    <td>Easy:arrow_lower_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/400._Nth_Digit.md">先数应在哪数，再数在哪位</a></td>
+    <td>Math</td>
+</tr>
+<tr>
+    <td>157. Read N Characters Given Read4</td>
+    <td>[L]Easy:arrow_lower_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/157._Read_N_Characters_Given_Read4.md">??</a></td>
+    <td>??</td>
+</tr>
+<tr>
+    <td>266. Palindrome Permutation</td>
+    <td>[L]Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/266._Palindrome_Permutation.md">数出现奇数次的字母</a></td>
+    <td>??</td>
+</tr>
+<tr>
+    <td>:flushed:332. Reconstruct Itinerary</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/332._Reconstruct_Itinerary.md">欧拉路径问题</a></td>
+    <td>DFS & Graph</td>
+</tr>
+<tr>
+    <td>:open_mouth:341. Flatten Nested List Iterator</td>
+    <td>Medium</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/341._Flatten_Nested_List_Iterator.md">利用题目里的函数拉平嵌套列表</a></td>
+    <td>Stack & Design</td>
+</tr>
+<tr>
+    <td>232. Implement Queue using Stacks</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/232._Implement_Queue_using_Stacks.md">两个栈模拟队列</a></td>
+    <td>Stack & Design</td>
+</tr>
+<tr>
+    <td>235. Lowest Common Ancestor of a Binary Search Tree</td>
+    <td>Easy</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/235._Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md">递归</a></td>
+    <td>Tree</td>
+</tr>
+<tr>
     <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/32"> :black_square_button: DAY 29 </a> </td>
     <td>172. Factorial Trailing Zeroes</td>
     <td>Easy</td>
