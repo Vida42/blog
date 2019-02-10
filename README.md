@@ -13,18 +13,6 @@ LCPy
 Order
 ------
 
-:ballot_box_with_check:数组与链表Array & Linked List
-
-:ballot_box_with_check:栈和队列/Stack & Queue
-
-:ballot_box_with_check:树/Tree
-
-:ballot_box_with_check:优先队列和堆/Heap or PriorityQueue	
-
-:ballot_box_with_check:图/Graph
-
-:ballot_box_with_check:哈希表/Hash Table
-
 :radio_button:动态规划/Dynamic
 
 :radio_button:贪心算法/Greedy
