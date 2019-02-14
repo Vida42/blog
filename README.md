@@ -9,6 +9,56 @@ LCPy
 ------
 
 
+<table>
+<tr>
+    <td><b>DAY</b></td>
+    <td><b>Title</b></td>
+    <td><b>Difficulty</b></td>
+    <td><b>Resolution</b></td>
+    <td><b>Topics</b></td>
+</tr>
+
+<tr>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/34"> :black_square_button: DAY 31 </a> </td>
+    <td>155. Min Stack</td>
+    <td>E:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/155._Min_Stack.md">用两个栈实现</a></td>
+    <td>Stack & Design</td>
+</tr>
+<tr>
+    <td>198. House Robber</td>
+    <td>E:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/198._House_Robber.md">动态规划</a></td>
+    <td>DP</td>
+</tr>
+<tr>
+    <td>225. Implement Stack using Queues</td>
+    <td>E:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/225._Implement_Stack_using_Queues.md">用列表就行</a></td>
+    <td>Stack & Design</td>
+</tr>
+<tr>
+    <td>303. Range Sum Query - Immutable</td>
+    <td>E:arrow_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/303._Range_Sum_Query_-_Immutable.md">前缀数组保存和，并没用到dp</a></td>
+    <td>DP</td>
+</tr>
+<tr>
+    <td>:sob:003. Longest Substring Without Repeating Characters</td>
+    <td>M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/003._Longest_Substring_Without_Repeating_Characters.md">hash table, slide window</a></td>
+    <td>Hash Table & Two Pointers & String</td>
+</tr>
+<tr>
+    <td>:sob:005. Longest Palindromic Substring</td>
+    <td>M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/005._Longest_Palindromic_Substring.md">Manacher</a></td>
+    <td>String & DP</td>
+</tr>
+
+</table>
+
+
 
 Order
 ------
