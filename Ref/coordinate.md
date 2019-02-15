@@ -77,7 +77,6 @@
 |76. 最小覆盖子串|https://blog.csdn.net/qq_17550379/article/details/83014880|
 |77. 组合|https://blog.csdn.net/qq_17550379/article/details/82558591|
 |78. 子集|https://blog.csdn.net/qq_17550379/article/details/82621887|
-|79. 单词搜索|https://blog.csdn.net/qq_17550379/article/details/82662595|
 |80. 删除排序数组中的重复项 II|https://blog.csdn.net/qq_17550379/article/details/80492307|
 |81. 搜索旋转排序数组II|https://blog.csdn.net/qq_17550379/article/details/83339465|
 |82. 删除排序链表中的重复元素 II|https://blog.csdn.net/qq_17550379/article/details/80668036|
@@ -165,8 +164,6 @@
 |189. 旋转数组|https://blog.csdn.net/qq_17550379/article/details/83791839|
 |190. 颠倒二进制位|https://blog.csdn.net/qq_17550379/article/details/85784504|
 |191. 位1的个数|https://blog.csdn.net/qq_17550379/article/details/85833551|
-|198. 打家劫舍|https://blog.csdn.net/qq_17550379/article/details/82829381|
-|200. 岛屿的个数|https://blog.csdn.net/qq_17550379/article/details/82682536|
 |201. 数字范围按位与|https://blog.csdn.net/qq_17550379/article/details/86064015|
 |202. 快乐数|https://blog.csdn.net/qq_17550379/article/details/80576761|
 |203. 删除链表中的节点|https://blog.csdn.net/qq_17550379/article/details/80662705|
