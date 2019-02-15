@@ -19,6 +19,25 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/35"> :black_square_button: DAY 32 </a> </td>
+    <td>200. Number of Islands</td>
+    <td>M:arrow_upper_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/200._Number_of_Islands.md">DFS or BFS</a></td>
+    <td>BFS & DFS & Union Find</td>
+</tr>
+<tr>
+    <td>079. Word Search</td>
+    <td>M:arrow_upper_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/079._Word_Search.md">dfs回溯</a></td>
+    <td>Array & Backtracking</td>
+</tr>
+<tr>
+    <td>056. Merge Intervals</td>
+    <td>M:arrow_upper_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/056._Merge_Intervals.md">排序后依次判断分情况处理</a></td>
+    <td>Array & Sort</td>
+</tr>
+<tr>
     <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/issues/34"> :black_square_button: DAY 31 </a> </td>
     <td>155. Min Stack</td>
     <td>E:arrow_upper_left:</td>
