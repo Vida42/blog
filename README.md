@@ -39,7 +39,7 @@ LCPy
     <td>Array & Binary Search</td>
 </tr>
 <tr>
-    <td>:neutral_face:238. Product of Array Except Self</td>
+    <td>:dizzy_face:238. Product of Array Except Self</td>
     <td>M:arrow_upper_left:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/238._Product_of_Array_Except_Self.md">先顺序得其左乘积，再逆序得其右乘积，再相乘</a></td>
     <td>Array</td>
