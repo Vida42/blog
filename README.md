@@ -19,7 +19,7 @@ LCPy
 </tr>
 
 <tr>
-    <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/issues/36"> :black_square_button: DAY 33 </a> </td>
+    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/36"> :black_square_button: DAY 33 </a> </td>
     <td>138. Copy List with Random Pointer</td>
     <td>M:arrow_upper_left:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">hash table保存random；1复制2过random3拆分</a></td>
