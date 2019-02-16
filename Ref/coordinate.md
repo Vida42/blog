@@ -32,7 +32,6 @@
 |30. 与所有单词相关联的字串|https://blog.csdn.net/qq_17550379/article/details/84893090|
 |31. 下一个排列|https://blog.csdn.net/qq_17550379/article/details/83213209|
 |32. 最长有效括号|https://blog.csdn.net/qq_17550379/article/details/84173172|
-|33. 搜索旋转排列数组|https://blog.csdn.net/qq_17550379/article/details/83213836|
 |34. 在排序数组中查找元素的第一个位置和最后一个位置|https://blog.csdn.net/qq_17550379/article/details/83214428|
 |35. 搜索插入位置|https://blog.csdn.net/qq_17550379/article/details/83036528|
 |36. 有效的数独|https://blog.csdn.net/qq_17550379/article/details/84870413|
