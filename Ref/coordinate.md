@@ -8,7 +8,6 @@
 |16. 最接近的三数之和|https://blog.csdn.net/qq_17550379/article/details/83029688|
 |17. 电话号码的字母组合|https://blog.csdn.net/qq_17550379/article/details/82459849|
 |19. 删除链表的倒数第N个节点|https://blog.csdn.net/qq_17550379/article/details/80717212|
-|22. 括号生成|https://blog.csdn.net/qq_17550379/article/details/84784005|
 |23. 合并K个排序链表|https://blog.csdn.net/qq_17550379/article/details/81151977|
 |24. 两两交换链表中的节点|https://blog.csdn.net/qq_17550379/article/details/80675453|
 |25. k个一组翻转链表|https://blog.csdn.net/qq_17550379/article/details/80696835|
