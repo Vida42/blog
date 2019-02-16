@@ -19,7 +19,7 @@ LCPy
 </tr>
 
 <tr>
-    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/36"> :black_square_button: DAY 33 </a> </td>
+    <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/issues/36"> :black_square_button: DAY 33 </a> </td>
     <td>138. Copy List with Random Pointer</td>
     <td>M:arrow_upper_left:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">hash table保存random；1复制2过random3拆分</a></td>
@@ -32,10 +32,22 @@ LCPy
     <td>Array & Binary Search</td>
 </tr>
 <tr>
-    <td>238. Product of Array Except Self</td>
+    <td>:neutral_face:238. Product of Array Except Self</td>
     <td>M:arrow_upper_left:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/238._Product_of_Array_Except_Self.md">先顺序得其左乘积，再逆序得其右乘积，再相乘</a></td>
     <td>Array</td>
+</tr>
+<tr>
+    <td>252. Meeting Rooms</td>
+    <td>[L]E:arrow_right:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/252._Meeting_Rooms.md">排序后判断每个的start与前一个的end</a></td>
+    <td>Sort</td>
+</tr>
+<tr>
+    <td>253. Meeting Rooms II</td>
+    <td>[L]M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/253._Meeting_Rooms_II.md">最小堆保存当前最先结束会议，和新会议开始时间比较</a></td>
+    <td>Sort</td>
 </tr>
 <tr>
     <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/35"> :black_square_button: DAY 32 </a> </td>
