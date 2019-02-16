@@ -19,6 +19,25 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/issues/36"> :black_square_button: DAY 33 </a> </td>
+    <td>138. Copy List with Random Pointer</td>
+    <td>M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">hash table保存random；1复制2过random3拆分</a></td>
+    <td>Hash Table & Linked List</td>
+</tr>
+<tr>
+    <td>033. Search in Rotated Sorted Array</td>
+    <td>M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/033._Search_in_Rotated_Sorted_Array.md">用切下的两半那半有序当作移动middle指针条件</a></td>
+    <td>Array & Binary Search</td>
+</tr>
+<tr>
+    <td>238. Product of Array Except Self</td>
+    <td>M:arrow_upper_left:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/238._Product_of_Array_Except_Self.md">先顺序得其左乘积，再逆序得其右乘积，再相乘</a></td>
+    <td>Array</td>
+</tr>
+<tr>
     <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/35"> :black_square_button: DAY 32 </a> </td>
     <td>200. Number of Islands</td>
     <td>M:arrow_upper_right:</td>
