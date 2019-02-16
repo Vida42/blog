@@ -28,7 +28,7 @@
 | :accept:27. Remove Element| Easy | [使用双指针或者标记指针使得前面都是满足要求的，后面都不满足](https://blog.csdn.net/fuxuemingzhu/article/details/51303161) |
 | :accept:28. Implement strStr()| Easy | [字符串遍历+切片是否相等的判断](https://blog.csdn.net/fuxuemingzhu/article/details/79254558) |
 | 31. Next Permutation|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/82113409) |
-| 33. Search in Rotated Sorted Array|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/79534213) |
+| :accept:33. Search in Rotated Sorted Array|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/79534213) |
 | 34. Find First and Last Position of Element in Sorted Array|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/83273084) |
 | :accept:35. Search Insert Position| Easy | [二分查找](https://blog.csdn.net/fuxuemingzhu/article/details/70738108) |
 | 36. Valid Sudoku|  | [Python]( https://blog.csdn.net/fuxuemingzhu/article/details/82813653) |
@@ -189,7 +189,7 @@
 | :accept:235. Lowest Common Ancestor of a Binary Search Tree| Easy | [BST找公共祖先，使用递归很简单](https://blog.csdn.net/fuxuemingzhu/article/details/51290289) |
 | 236. Lowest Common Ancestor of a Binary Tree|  | [Python]( https://blog.csdn.net/fuxuemingzhu/article/details/80778001) |
 | :accept:237. Delete Node in a Linked List|  | [Java & Python]( https://blog.csdn.net/fuxuemingzhu/article/details/51285004) |
-| 238. Product of Array Except Self| Medium | [使用两次遍历，分别从左边和右边向中间靠拢](https://blog.csdn.net/fuxuemingzhu/article/details/79325534) |
+| :accept:238. Product of Array Except Self| Medium | [使用两次遍历，分别从左边和右边向中间靠拢](https://blog.csdn.net/fuxuemingzhu/article/details/79325534) |
 | 240. Search a 2D Matrix II|  | [Python & C++]( https://blog.csdn.net/fuxuemingzhu/article/details/79459314) |
 | 241. Different Ways to Add Parentheses|  | [Python]( https://blog.csdn.net/fuxuemingzhu/article/details/79568487) |
 | :accept:242. Valid Anagram| Easy | [判断字符串是否是同构的，直接统计词频或者排序](https://blog.csdn.net/fuxuemingzhu/article/details/51286195) |
