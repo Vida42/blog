@@ -39,13 +39,13 @@ LCPy
 </tr>
 <tr>
     <td>252. Meeting Rooms</td>
-    <td>[L]E:arrow_right:</td>
+    <td>:lock:E:arrow_right:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/252._Meeting_Rooms.md">排序后判断每个的start与前一个的end</a></td>
     <td>Sort</td>
 </tr>
 <tr>
     <td>253. Meeting Rooms II</td>
-    <td>[L]M:arrow_upper_left:</td>
+    <td>:lock:M:arrow_upper_left:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/253._Meeting_Rooms_II.md">最小堆保存当前最先结束会议，和新会议开始时间比较</a></td>
     <td>Sort</td>
 </tr>
