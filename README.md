@@ -19,6 +19,13 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/issues/39"> :black_square_button: DAY 36 </a> </td>
+    <td>139. Word Break</td>
+    <td>:arrow_upper_left:M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/139._Word_Break.md">DP</a></td>
+    <td>DP</td>
+</tr>
+<tr>
     <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/issues/38"> :black_square_button: DAY 35 </a> </td>
     <td>993. Cousins in Binary Tree</td>
     <td>:racehorse:E</td>
