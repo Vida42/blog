@@ -19,6 +19,13 @@ LCPy
 </tr>
 
 <tr>
+    <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/issues/40"> :black_square_button: DAY 37 </a> </td>
+    <td>:dizzy_face:091. Decode Ways</td>
+    <td>:arrow_upper_left:M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/091._Decode_Ways.md">f(i) depends on f(i-1)&f(i-2)</a></td>
+    <td>String & DP</td>
+</tr>
+<tr>
     <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/issues/39"> :black_square_button: DAY 36 </a> </td>
     <td>139. Word Break</td>
     <td>:arrow_upper_left:M</td>
