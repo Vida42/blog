@@ -20,7 +20,7 @@ SEVEN
 </tr>
 
 <tr>
-    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Binary Search </a> </td>
+    <td rowspan="12"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Binary Search </a> </td>
     <td>34. Find First and Last Position of Element in Sorted Array</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.md">level 1</a></td>
