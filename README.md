@@ -82,13 +82,13 @@ SEVEN
 </tr>
 <tr>
     <td>183. Wood Cut</td>
-    <td>M:lock</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
     <td>19.X.X</td>
 </tr>
 <tr>
     <td>437. Copy Books</td>
-    <td>M:lock</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
     <td>19.X.X</td>
 </tr>
