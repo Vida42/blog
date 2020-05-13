@@ -130,13 +130,13 @@ SEVEN
     <td>19.11.6</td>
 </tr>
 <tr>
-    <td>618. Search Graph Nodes(Lintcode)</td>
+    <td>618. Search Graph Nodes[Lintcode]</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L618._Search_Graph_Nodes.md">BFS in Graph</a></td>
     <td>19.11.7</td>
 </tr>
 <tr>
-    <td>127. Topological Sorting(Lintcode)</td>
+    <td>127. Topological Sorting[Lintcode]</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L127._Topological_Sorting.md">BFS in Graph</a></td>
     <td>19.11.7</td>
@@ -166,13 +166,13 @@ SEVEN
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>598. Zombie in Matrix</td>
-    <td>M</td>
+    <td>598. Zombie in Matrix[Lintcode]</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L598._Zombie_in_Matrix.md">BFS in Matrix</a></td>
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>611. Knight Shortest Path(Lintcode)</td>
+    <td>611. Knight Shortest Path[Lintcode]</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">BFS in Matrix</a></td>
     <td>19.XX.XX</td>
@@ -184,7 +184,7 @@ SEVEN
     <td>19.XX.XX</td>
 </tr>
 <tr>
-    <td rowspan="8"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :black_square_button: DFS </a> </td>
+    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :black_square_button: DFS </a> </td>
     <td>78. Subsets</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/078._Subsets.md">Combination</a></td>
@@ -229,8 +229,14 @@ SEVEN
 <tr>
     <td>51. N-Queens</td>
     <td>H</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/051._N-Queens.md"></a></td>
-    <td>19.XX.XX</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/051._N-Queens.md">Permutation</a></td>
+    <td>19.11.14</td>
+</tr>
+<tr>
+    <td>127. Word Ladder</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/127._Word_Ladder.md">Permutation</a></td>
+    <td>19.11.21</td>
 </tr>
 
 
