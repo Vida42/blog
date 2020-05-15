@@ -87,7 +87,7 @@ SEVEN
     <td>19.X.X</td>
 </tr>
 <tr>
-    <td>437. Copy Books</td>
+    <td>437. Copy Books:zap:</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
     <td>19.X.X</td>
@@ -130,13 +130,13 @@ SEVEN
     <td>19.11.6</td>
 </tr>
 <tr>
-    <td>618. Search Graph Nodes[Lintcode]</td>
+    <td>618. Search Graph Nodes:zap:</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L618._Search_Graph_Nodes.md">BFS in Graph</a></td>
     <td>19.11.7</td>
 </tr>
 <tr>
-    <td>127. Topological Sorting[Lintcode]</td>
+    <td>127. Topological Sorting:zap:</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L127._Topological_Sorting.md">BFS in Graph</a></td>
     <td>19.11.7</td>
@@ -166,13 +166,13 @@ SEVEN
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>598. Zombie in Matrix[Lintcode]</td>
+    <td>598. Zombie in Matrix:zap:</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L598._Zombie_in_Matrix.md">BFS in Matrix</a></td>
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>611. Knight Shortest Path[Lintcode]</td>
+    <td>611. Knight Shortest Path:zap:</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">BFS in Matrix</a></td>
     <td>19.XX.XX</td>
@@ -238,6 +238,123 @@ SEVEN
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/127._Word_Ladder.md">Permutation</a></td>
     <td>19.11.21</td>
 </tr>
+<tr>
+    <td rowspan="13"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Linked List </a> </td>
+    <td>25. Reverse Nodes in k-Groups</td>
+    <td>H</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/25._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>86. Partition List</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/86._Partition_List.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>21. Merge Two Sorted Lists</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/21._Merge_Two_Sorted_Lists.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>92. Reverse Linked List II</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/92._Reverse_Linked_List_II.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>143. Reorder List</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/143._Reorder_List.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>61. Rotate List</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/61._Rotate_List.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>511. Swap Two Nodes in Linked List:zap:</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L511._Swap_Two_Nodes_in_Linked_List.md">Dummy Node</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>138. Copy List with Random Pointer</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>141. Linked List Cycle</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/141._Linked_List_Cycle.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>148. Sort List</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/148._Sort_List.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>237. Delete Node in a Linked List</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/237._Delete_Node_in_a_Linked_List.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>109. Convert Sorted List to Binary Search Tree</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/109._Convert_Sorted_List_to_Binary_Search_Tree.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>426. Convert Binary Search Tree to Sorted Doubly Linked List:zap:</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L426._Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.md">High Freq</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
+    <td>41. Maximum Subarray:zap:</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L41._Maximum_Subarray.md">Subarray</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>138. Subarray Sum:zap:</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L138._Subarray_Sum.md">Subarray</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>139. Subarray Sum Closest:zap:</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L139._Subarray_Sum_Closest.md">Subarray</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>88. Merge Sorted Array</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/88._Merge_Sorted_Array.md">Sorted Array</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>349. Intersection of Two Arrays</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/349._Intersection_of_Two_Arrays.md">Sorted Array</a></td>
+    <td>20.5.</td>
+</tr>
+<tr>
+    <td>4. Median of Two Sorted Arrays</td>
+    <td>H</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/4._Median_of_Two_Sorted_Arrays.md">Sorted Array</a></td>
+    <td>20.5.</td>
+</tr>
+
 
 
 </table>
