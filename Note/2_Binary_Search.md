@@ -3,6 +3,8 @@
 
 278(找第一个错误版本)， 652(找K个最近)， 852(找峰顶)在用`lo = mid + 1`,`hi = mid - 1`频频出错，后来34也改为`lo = mid`和`hi = mid`也能过
 
+## Before
+
 Time Complexity in Coding Interview
 
 • O(1) 极少
