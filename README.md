@@ -4,7 +4,9 @@
 > 
 >       —— “The Feynman Algorithm” as described by Murray Gell-Mann
 
+:zap:   lintcode
 
+:lock:  lock
 
 SEVEN
 ------
@@ -20,75 +22,75 @@ SEVEN
 </tr>
 
 <tr>
-    <td rowspan="12"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Binary Search </a> </td>
+    <td rowspan="12"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/2_Binary_Search.md"> :white_check_mark: Binary Search </a> </td>
     <td>34. Find First and Last Position of Element in Sorted Array</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/034._Find_First_and_Last_Position_of_Element_in_Sorted_Array.md">level 1</a></td>
-    <td>19.10.30</td>
+    <td>10/6/20</td>
 </tr>
 <tr>
     <td>278. First Bad Version</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/278._First_Bad_Version.md">level 2</a></td>
-    <td>19.2.4</td>
+    <td>10/6/20</td>
 </tr>
 <tr>
     <td>658. Find K Closest Elements</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/658._Find_K_Closest_Elements.md">level 2</a></td>
-    <td>19.10.30</td>
+    <td>10/6/20</td>
 </tr>
 <tr>
     <td>702.Search in a Sorted Array of Unknown Size</td>
-    <td>M</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/702.Search_in_a_Sorted_Array_of_Unknown_Size.md">level 2</a></td>
-    <td>19.10.31</td>
+    <td>10/6/20</td>
 </tr>
 <tr>
     <td>153. Find Minimum in Rotated Sorted Array</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/153._Find_Minimum_in_Rotated_Sorted_Array.md">level 2</a></td>
-    <td>19.10.31</td>
+    <td>10/7/20</td>
 </tr>
 <tr>
     <td>74. Search a 2D Matrix</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/074._Search_a_2D_Matrix.md">level 2</a></td>
-    <td>19.10.31</td>
+    <td>10/7/20</td>
 </tr>
 <tr>
     <td>852. Peak Index in a Mountain Array</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/852._Peak_Index_in_a_Mountain_Array.md">level 2</a></td>
-    <td>19.11.1</td>
+    <td>10/6/20</td>
 </tr>
 <tr>
     <td>162. Find Peak Element</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/162._Find_Peak_Element.md">level 3</a></td>
-    <td>19.11.1</td>
+    <td>10/7/20</td>
 </tr>
 <tr>
     <td>33. Search in Rotated Sorted Array</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/033._Search_in_Rotated_Sorted_Array.md">level 3</a></td>
-    <td>19.11.4</td>
+    <td>10/7/20</td>
 </tr>
 <tr>
     <td>69. Sqrt(x)</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/069._Sqrt(x).md">level 4</a></td>
-    <td>19.11.4</td>
+    <td>10/7/20</td>
 </tr>
 <tr>
     <td>183. Wood Cut</td>
-    <td>M:lock:</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
     <td>19.X.X</td>
 </tr>
 <tr>
-    <td>437. Copy Books:zap:</td>
-    <td>M:lock:</td>
+    <td>437. Copy Books</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
     <td>19.X.X</td>
 </tr>
@@ -239,28 +241,28 @@ SEVEN
     <td>19.11.21</td>
 </tr>
 <tr>
-    <td rowspan="13"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Linked List </a> </td>
+    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Linked List </a> </td>
     <td>25. Reverse Nodes in k-Groups</td>
     <td>H</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/25._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/025._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
+    <td>20.5.16</td>
 </tr>
 <tr>
     <td>86. Partition List</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/86._Partition_List.md">Dummy Node</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/086._Partition_List.md">Dummy Node</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
     <td>21. Merge Two Sorted Lists</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/21._Merge_Two_Sorted_Lists.md">Dummy Node</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/021._Merge_Two_Sorted_Lists.md">Dummy Node</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
     <td>92. Reverse Linked List II</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/92._Reverse_Linked_List_II.md">Dummy Node</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/092._Reverse_Linked_List_II.md">Dummy Node</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
@@ -272,7 +274,7 @@ SEVEN
 <tr>
     <td>61. Rotate List</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/61._Rotate_List.md">Dummy Node</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/061._Rotate_List.md">Dummy Node</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
@@ -291,7 +293,19 @@ SEVEN
     <td>141. Linked List Cycle</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/141._Linked_List_Cycle.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td>20.5.17</td>
+</tr>
+<tr>
+    <td>142. Linked List Cycle II</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/142._Linked_List_Cycle_II.md">High Freq</a></td>
+    <td>20.5.17</td>
+</tr>
+<tr>
+    <td>160. Intersection of Two Linked Lists</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/160._Intersection_of_Two_Linked_Lists.md">High Freq</a></td>
+    <td>20.5.18</td>
 </tr>
 <tr>
     <td>148. Sort List</td>
@@ -321,7 +335,7 @@ SEVEN
     <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
     <td>41. Maximum Subarray:zap:</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L41._Maximum_Subarray.md">Subarray</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L041._Maximum_Subarray.md">Subarray</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
@@ -339,7 +353,7 @@ SEVEN
 <tr>
     <td>88. Merge Sorted Array</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/88._Merge_Sorted_Array.md">Sorted Array</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/088._Merge_Sorted_Array.md">Sorted Array</a></td>
     <td>20.5.</td>
 </tr>
 <tr>
@@ -351,7 +365,7 @@ SEVEN
 <tr>
     <td>4. Median of Two Sorted Arrays</td>
     <td>H</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/4._Median_of_Two_Sorted_Arrays.md">Sorted Array</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/004._Median_of_Two_Sorted_Arrays.md">Sorted Array</a></td>
     <td>20.5.</td>
 </tr>
 
