@@ -86,60 +86,60 @@ SEVEN
     <td>183. Wood Cut</td>
     <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
-    <td>19.X.X</td>
+    <td>X.T.X</td>
 </tr>
 <tr>
     <td>437. Copy Books</td>
     <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">level 4</a></td>
-    <td>19.X.X</td>
+    <td>X.T.X</td>
 </tr>
 <tr>
     <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_BFS.md"> :black_square_button: BFS </a> </td>
     <td>102. Binary Tree Level Order Traversal</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/102._Binary_Tree_Level_Order_Traversal.md">BFS in Binary Tree</a></td>
-    <td>19.11.6</td>
+    <td>10/8/20</td>
 </tr>
 <tr>
     <td>107. Binary Tree Level Order Traversal II</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/107._Binary_Tree_Level_Order_Traversal_II.md">BFS in Binary Tree</a></td>
-    <td>19.11.6</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>103. Binary Tree Zigzag Level Order Traversal</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/103._Binary_Tree_Zigzag_Level_Order_Traversal.md">BFS in Binary Tree</a></td>
-    <td>19.11.6</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>297. Serialize and Deserialize Binary Tree</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/297._Serialize_and_Deserialize_Binary_Tree.md">BFS in Binary Tree</a></td>
-    <td>19.11.6</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>261. Graph Valid Tree</td>
-    <td>M</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/261._Graph_Valid_Tree.md">BFS in Graph</a></td>
-    <td>19.11.6</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>133. Clone Graph</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/133._Clone_Graph.md">BFS in Graph</a></td>
-    <td>19.11.6</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
-    <td>618. Search Graph Nodes:zap:</td>
-    <td>M:lock:</td>
+    <td>618. Search Graph Nodes</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L618._Search_Graph_Nodes.md">BFS in Graph</a></td>
     <td>19.11.7</td>
 </tr>
 <tr>
-    <td>127. Topological Sorting:zap:</td>
-    <td>M</td>
+    <td>127. Topological Sorting</td>
+    <td>M:zap:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L127._Topological_Sorting.md">BFS in Graph</a></td>
     <td>19.11.7</td>
 </tr>
@@ -147,19 +147,19 @@ SEVEN
     <td>207. Course Schedule</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/207._Course_Schedule.md">BFS in Graph</a></td>
-    <td>19.11.9</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>210. Course Schedule II</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/210._Course_Schedule_II.md">BFS in Graph</a></td>
-    <td>19.11.9</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>444. Sequence Reconstruction</td>
     <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/444._Sequence_Reconstruction.md">BFS in Graph</a></td>
-    <td>19.11.9</td>
+    <td>10/9/20</td>
 </tr>
 <tr>
     <td>200. Number of Islands</td>
@@ -168,22 +168,22 @@ SEVEN
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>598. Zombie in Matrix:zap:</td>
-    <td>M:lock:</td>
+    <td>598. Zombie in Matrix</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L598._Zombie_in_Matrix.md">BFS in Matrix</a></td>
     <td>19.11.10</td>
 </tr>
 <tr>
-    <td>611. Knight Shortest Path:zap:</td>
-    <td>M:lock:</td>
+    <td>611. Knight Shortest Path</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">BFS in Matrix</a></td>
-    <td>19.XX.XX</td>
+    <td>X.T.X</td>
 </tr>
 <tr>
     <td>573. Build Post Office II</td>
-    <td>M</td>
+    <td>M:zap::lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/.md">BFS in Matrix</a></td>
-    <td>19.XX.XX</td>
+    <td>X.X.X</td>
 </tr>
 <tr>
     <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :black_square_button: DFS </a> </td>
@@ -278,10 +278,10 @@ SEVEN
     <td>20.5.</td>
 </tr>
 <tr>
-    <td>511. Swap Two Nodes in Linked List:zap:</td>
-    <td>M</td>
+    <td>511. Swap Two Nodes in Linked List</td>
+    <td>M:zap:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L511._Swap_Two_Nodes_in_Linked_List.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>X.X.X</td>
 </tr>
 <tr>
     <td>138. Copy List with Random Pointer</td>
@@ -326,8 +326,8 @@ SEVEN
     <td>20.5.</td>
 </tr>
 <tr>
-    <td>426. Convert Binary Search Tree to Sorted Doubly Linked List:zap:</td>
-    <td>M</td>
+    <td>426. Convert Binary Search Tree to Sorted Doubly Linked List</td>
+    <td>M:lock:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L426._Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.md">High Freq</a></td>
     <td>20.5.</td>
 </tr>
