@@ -95,7 +95,7 @@ SEVEN
     <td>X.T.X</td>
 </tr>
 <tr>
-    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_BFS.md"> :black_square_button: BFS </a> </td>
+    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_BFS.md"> :white_check_mark: BFS </a> </td>
     <td>102. Binary Tree Level Order Traversal</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/102._Binary_Tree_Level_Order_Traversal.md">BFS in Binary Tree</a></td>
@@ -165,7 +165,7 @@ SEVEN
     <td>200. Number of Islands</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/200._Number_of_Islands.md">BFS in Matrix</a></td>
-    <td>19.11.10</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>598. Zombie in Matrix</td>
@@ -186,59 +186,59 @@ SEVEN
     <td>X.X.X</td>
 </tr>
 <tr>
-    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :black_square_button: DFS </a> </td>
+    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :white_check_mark: DFS </a> </td>
     <td>78. Subsets</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/078._Subsets.md">Combination</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>39. Combination Sum</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/039._Combination_Sum.md">Combination</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>40. Combination Sum II</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/040._Combination_Sum_II.md">Combination</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>90. Subsets II</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/090._Subsets_II.md">Combination</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>131. Palindrome Partitioning</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/131._Palindrome_Partitioning.md">Combination</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>46. Permutations</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/046._Permutations.md">Permutation</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>47. Permutations II</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/047._Permutations_II.md">Permutation</a></td>
-    <td>19.11.11</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>51. N-Queens</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/051._N-Queens.md">Permutation</a></td>
-    <td>19.11.14</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td>127. Word Ladder</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/127._Word_Ladder.md">Permutation</a></td>
-    <td>19.11.21</td>
+    <td>10/10/20</td>
 </tr>
 <tr>
     <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Linked List </a> </td>
