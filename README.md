@@ -241,7 +241,13 @@ SEVEN
     <td>10/10/20</td>
 </tr>
 <tr>
-    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :white_check_mark: Linked List </a> </td>
+    <td rowspan="16"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/6_Linked_List&Array.md"> :white_check_mark: Linked List </a> </td>
+    <td>206. Reverse Linked List</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/206._Reverse_Linked_List.md">Dummy Node</a></td>
+    <td>10/12/20</td>
+</tr>
+<tr>
     <td>25. Reverse Nodes in k-Groups</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/025._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
@@ -332,7 +338,7 @@ SEVEN
     <td>10/13/20</td>
 </tr>
 <tr>
-    <td rowspan="7"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
+    <td rowspan="7"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/6_Linked_List&Array.md"> :white_check_mark: Array </a> </td>
     <td>53. Maximum Subarray</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/053._Maximum_Subarray.md">Subarray</a></td>
@@ -354,25 +360,25 @@ SEVEN
     <td>139. Subarray Sum Closest</td>
     <td>M:zap:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L139._Subarray_Sum_Closest.md">Subarray</a></td>
-    <td>20.5.</td>
+    <td>X.X.X</td>
 </tr>
 <tr>
     <td>88. Merge Sorted Array</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/088._Merge_Sorted_Array.md">Sorted Array</a></td>
-    <td>20.5.</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>349. Intersection of Two Arrays</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/349._Intersection_of_Two_Arrays.md">Sorted Array</a></td>
-    <td>20.5.</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>4. Median of Two Sorted Arrays</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/004._Median_of_Two_Sorted_Arrays.md">Sorted Array</a></td>
-    <td>20.5.</td>
+    <td>10/13/20</td>
 </tr>
 
 
