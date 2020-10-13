@@ -95,7 +95,7 @@ SEVEN
     <td>X.T.X</td>
 </tr>
 <tr>
-    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_BFS.md"> :white_check_mark: BFS </a> </td>
+    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/4_BFS.md"> :white_check_mark: BFS </a> </td>
     <td>102. Binary Tree Level Order Traversal</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/102._Binary_Tree_Level_Order_Traversal.md">BFS in Binary Tree</a></td>
@@ -186,7 +186,7 @@ SEVEN
     <td>X.X.X</td>
 </tr>
 <tr>
-    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_DFS.md"> :white_check_mark: DFS </a> </td>
+    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/5_DFS.md"> :white_check_mark: DFS </a> </td>
     <td>78. Subsets</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/078._Subsets.md">Combination</a></td>
@@ -245,37 +245,37 @@ SEVEN
     <td>25. Reverse Nodes in k-Groups</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/025._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
-    <td>20.5.16</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>86. Partition List</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/086._Partition_List.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>21. Merge Two Sorted Lists</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/021._Merge_Two_Sorted_Lists.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>92. Reverse Linked List II</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/092._Reverse_Linked_List_II.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>143. Reorder List</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/143._Reorder_List.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>61. Rotate List</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/061._Rotate_List.md">Dummy Node</a></td>
-    <td>20.5.</td>
+    <td>10/12/20</td>
 </tr>
 <tr>
     <td>511. Swap Two Nodes in Linked List</td>
@@ -332,21 +332,27 @@ SEVEN
     <td>20.5.</td>
 </tr>
 <tr>
-    <td rowspan="6"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
-    <td>41. Maximum Subarray:zap:</td>
+    <td rowspan="7"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
+    <td>53. Maximum Subarray</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L041._Maximum_Subarray.md">Subarray</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/053._Maximum_Subarray.md">Subarray</a></td>
+    <td>210/11/20</td>
 </tr>
 <tr>
-    <td>138. Subarray Sum:zap:</td>
+    <td>643. Maximum Average Subarray I</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L138._Subarray_Sum.md">Subarray</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/643._Maximum_Average_Subarray_I.md">Subarray</a></td>
+    <td>10/11/20</td>
 </tr>
 <tr>
-    <td>139. Subarray Sum Closest:zap:</td>
+    <td>560. Subarray Sum Equals K</td>
     <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/560._Subarray_Sum_Equals_K.md">Subarray</a></td>
+    <td>10/11/20</td>
+</tr>
+<tr>
+    <td>139. Subarray Sum Closest</td>
+    <td>M:zap:</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L139._Subarray_Sum_Closest.md">Subarray</a></td>
     <td>20.5.</td>
 </tr>

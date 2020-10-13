@@ -45,8 +45,11 @@ outline
     - Find First Position of Target
     - Find Last Position of Target
     - 34. Find First and Last Position of Element in Sorted Array
+
 - 第二境界：二分位置 之 OOXX
+
 > 找到第一个/最后一个满足某个条件的位置/值
+
     - 278. First Bad Version
     - 658. Find K Closest Elements
     - 702.Search in a Sorted Array of Unknown Size
@@ -54,12 +57,18 @@ outline
     - 74. Search a 2D Matrix(非二分但常考)
     - Search for a Range: 34. Find First and Last Position of Element in Sorted Array
     - Maximum Number in Mountain Sequence: 852. Peak Index in a Mountain Array
+
 - 第三境界：二分位置 之 Half half
+
 > 并无法找到一个条件，形成 OOXX 的模型,但可以根据判断，保留下有解的那一半或者去掉无解的一半
+
     - 162. Find Peak Element
     - 33. Search in Rotated Sorted Array(会了这道题，才敢说自己会二分法)
+
 - 第四境界：二分答案 Binary Search on Result
+
 > 往往没有给你一个数组让你二分，而且题目压根看不出来是个二分法可以做的题，同样是找到满足某个条件的最大或者最小值
+
     - 69. Sqrt(x)
     - 183L. Wood Cut
     - 437L. Copy Books
