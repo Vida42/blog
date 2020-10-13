@@ -241,7 +241,7 @@ SEVEN
     <td>10/10/20</td>
 </tr>
 <tr>
-    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Linked List </a> </td>
+    <td rowspan="15"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :white_check_mark: Linked List </a> </td>
     <td>25. Reverse Nodes in k-Groups</td>
     <td>H</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/025._Reverse_Nodes_in_k-Groups.md">Dummy Node</a></td>
@@ -287,56 +287,56 @@ SEVEN
     <td>138. Copy List with Random Pointer</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>141. Linked List Cycle</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/141._Linked_List_Cycle.md">High Freq</a></td>
-    <td>20.5.17</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>142. Linked List Cycle II</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/142._Linked_List_Cycle_II.md">High Freq</a></td>
-    <td>20.5.17</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>160. Intersection of Two Linked Lists</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/160._Intersection_of_Two_Linked_Lists.md">High Freq</a></td>
-    <td>20.5.18</td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>148. Sort List</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/148._Sort_List.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/148._Sort_List.md">Sort</a></td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>237. Delete Node in a Linked List</td>
     <td>E</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/237._Delete_Node_in_a_Linked_List.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/237._Delete_Node_in_a_Linked_List.md">Other</a></td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>109. Convert Sorted List to Binary Search Tree</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/109._Convert_Sorted_List_to_Binary_Search_Tree.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/109._Convert_Sorted_List_to_Binary_Search_Tree.md">Sort</a></td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td>426. Convert Binary Search Tree to Sorted Doubly Linked List</td>
     <td>M:lock:</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L426._Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.md">High Freq</a></td>
-    <td>20.5.</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L426._Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List.md">Sort</a></td>
+    <td>10/13/20</td>
 </tr>
 <tr>
     <td rowspan="7"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/19s_Binary_Search.md"> :black_square_button: Array </a> </td>
     <td>53. Maximum Subarray</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/053._Maximum_Subarray.md">Subarray</a></td>
-    <td>210/11/20</td>
+    <td>10/11/20</td>
 </tr>
 <tr>
     <td>643. Maximum Average Subarray I</td>
