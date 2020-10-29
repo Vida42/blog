@@ -380,7 +380,127 @@ SEVEN
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/004._Median_of_Two_Sorted_Arrays.md">Sorted Array</a></td>
     <td>10/13/20</td>
 </tr>
-
+<tr>
+    <td rowspan="19"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/7_Two_Pointers.md"> :white_check_mark: Two Pointers </a> </td>
+    <td>643. Maximum Average Subarray I</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/643._Maximum_Average_Subarray_I.md">Same Direction</a></td>
+    <td>10/12/20</td>
+</tr>
+<tr>
+    <td>283. Move Zeroes</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/283._Move_Zeroes.md">Same Direction</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>26. Remove Duplicates from Sorted Array</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/026._Remove_Duplicates_from_Sorted_Array.md">Same Direction</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>80. Remove Duplicates from Sorted Array II</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/080._Remove_Duplicates_from_Sorted_Array_II.md">Same Direction</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>125. Valid Palindrome</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/125._Valid_Palindrome.md">Opposite Direction</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>796. Rotate String</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/796._Rotate_String.md">Opposite Direction[No]</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>167. Two Sum II - Input array is sorted</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/167._Two_Sum_II_-_Input_array_is_sorted.md">Opposite Direction</a></td>
+    <td>10/21/20</td>
+</tr>
+<tr>
+    <td>1. Two Sum</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/001._Two_Sum.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>170. Two Sum III - Data structure design</td>
+    <td>E:lock:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/170._Two_Sum_III_-_Data_structure_design.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>15. 3Sum</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/015._3Sum.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>611. Valid Triangle Number</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/611._Valid_Triangle_Number.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>16. 3Sum Closest</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/016._3Sum_Closest.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>18. 4Sum</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/018._4Sum.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>1099. Two Sum Less Than K</td>
+    <td>E:lock:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/1099._Two_Sum_Less_Than_K.md">Two Sum</a></td>
+    <td>10/22/20</td>
+</tr>
+<tr>
+    <td>905. Sort Array By Parity</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/905._Sort_Array_By_Parity.md">Partition Array</a></td>
+    <td>10/23/20</td>
+</tr>
+<tr>
+    <td>31. Partition Array</td>
+    <td>M:zap:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L031._Partition_Array.md">Partition Array</a></td>
+    <td>10/23/20</td>
+</tr>
+<tr>
+    <td>144. Interleaving Positive And Negative Numbers</td>
+    <td>M:zap:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L144._Interleaving_Positive_And_Negative_Numbers.md">Partition Array</a></td>
+    <td>10/23/20</td>
+</tr>
+<tr>
+    <td>75. Sort Colors</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/075._Sort_Colors.md">Partition Array</a></td>
+    <td>10/24/20</td>
+</tr>
+<tr>
+    <td>143. Sort Colors II</td>
+    <td>M:zap:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L143._Sort_Colors_II.md">Partition Array</a></td>
+    <td>10/24/20</td>
+</tr>
+<tr>
+    <td>215. Kth Largest Element in an Array</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/215._Kth_Largest_Element_in_an_Array.md">Sort</a></td>
+    <td>10/25/20</td>
+</tr>
 
 
 </table>
