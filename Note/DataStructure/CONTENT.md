@@ -28,6 +28,25 @@ Table of contents
 
 - [Sort](#sort)
 
+    - [Bubble Sort](#bubble-sort)
+    
+    - [Selection Sort](#selection-sort)
+    
+    - [Insertion Sort](#insertion-sort)
+    
+    - [Shell Sort](#shell-sort)
+    
+    - [Merge Sort](#merge-sort)
+    
+    - [Quick Sort](#quick-sort)
+    
+    - [Heap Sort](#heap-sort)
+    
+    - [Bucket Sort](#bucket-sort)
+    
+    - [Counting Sort](#counting-sort)
+    
+    - [Radix Sort](#radix-sort)
 
 - [Algorithm](#algorithm)
 

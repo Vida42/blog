@@ -80,7 +80,9 @@ y=[5,6,7,8]
 
 [ EXP for x in seq if COND ]
 
-# But in the second example you are only mapping each value to another(x if y else z is the syntax for the expression you're returning for each element) using a ternary-operator expression.
+# But in the second example you are only mapping each value to another
+# (x if y else z is the syntax for the expression you're returning for each element)
+# using a ternary-operator expression.
 
 # Without a filter you need:
 
