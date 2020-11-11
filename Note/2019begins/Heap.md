@@ -10,7 +10,9 @@
 优先队列是基于堆的完全二叉树,它和队列的概念无关。(它并不是队列,而是树) [[2]](http://www.sohu.com/a/256022793_478315)
 
 A:Priority queues are "queues" in one sense of the word, in that elements wait their turn. They are not a subtype of the Queue abstract data type.
+
 Q:then why are they called priority Queue?
+
 A:Because they are "queues" in the common (non-ADT) sense of the word: they are places where members arrive, wait for their turn, and then leave. The `Queue` ADT is a "queue" in which the member who has been waiting the longest is picked next. The `Priority Queue` ADT is a "queue" in which the member with highest priority is picked next. [[3]](https://stackoverflow.com/questions/19453616/are-priority-queues-really-queues)
 
 Priority queue is an abstract data type (an interface definition) that defines three operations: *is_empty*, *insert_with_priority*, and *pull_highest_priority_element*. The definition says what those functions are expected to do, but it doesn't say how it is to be implemented.

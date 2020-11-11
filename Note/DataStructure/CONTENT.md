@@ -8,6 +8,8 @@ Table of contents
 
 - [Data Structure](#data-structure)
 
+    - [String](#string)
+
     - [ArrayList](#arraylist)
 
     - [LinkedList](#linkedlist)
@@ -20,9 +22,9 @@ Table of contents
 
     - [Stack](#stack)
 
-    - [Tree](#tree)
-
     - [Heap](#heap)
+
+    - [Tree](#tree)
 
 - [Sort](#sort)
 
@@ -47,22 +49,591 @@ Table of contents
 
 # Data Structure
 
+时间复杂度参考以下两个链接：
+
+[Big O Cheat Sheet，但是好多都不对啊](https://www.bigocheatsheet.com/)
+
+[Big O various data structures，基于JAVA，比上一个靠谱](https://stackoverflow.com/questions/7294634/what-are-the-time-complexities-of-various-data-structures)
+
+## String
+
+### Definition
+
+String literals in python are surrounded by either single quotation marks, or double quotation marks.
+
+### Implement
+
+`str()`
+
+### Operation
+
+Python中字符串常用的方法：
+
+```python
+s0 = str()
+
+s1 = ''
+
+s2 = "Lexington"
+
+length = len(s2)
+
+s2[-3:] # ton
+
+s2[5:8] # gto
+
+s3 = s2[:3] # Lex
+
+s2[::-1] # notgnixeL
+
+s2[:-3] # Lexing
+
+s3 += 'us' # Lexus
+
+# list in python is same as ArrayList in java
+s3list = list(s3) # ['L', 'e', 'x', 'u', 's']
+
+s2.index('e')  # return 1, if not found, throw ValueError
+
+s2.find('x') # return 2, if not found, return -1
+```
+
+### Time Complexity
+
+### Related
+
+
 ## ArrayList
+
+### Definition
+
+A list is a collection which is ordered and changeable. Allows duplicate members. In Python lists are written with square brackets.
+
+### Implement
+
+`list()`
+
+See comparison between List, Tuple, Set and Dictionary [HERE](https://github.com/Vida42/Leetcode/tree/master/Note/DataStructure/HighFreqPyOp.md).
+
+### Operation
+
+```python
+# 使用list.count()，可以得到每一个元素，在list中出现的次数
+b = ['do','you','me','you']
+z = b.count(b[1])
+
+a.join(b)
+a = 'like'
+b = ['do','you','me','you']
+c = 'IU'
+print(a.join(b))
+# >>> 'dolikeyoulikemelikeyou'
+print(a.join(c))
+# >>> 'IlikeU'
+
+# int转str
+d = list(map(str,[1,2,3,4,5,6,7,8]))
+# int转str
+d2 = ''.join([str(i) for i in [1,2,3,4]])
+
+
+# Python List四种删除元素的方法：
+
+# According to index: del, pop
+# According to value: remove
+
+li = [1,2,2,3,2,4]
+
+# 1. 使用del删除指定元素
+# del removes the item at a specific index
+
+del li[4]
+# >>> li = [1,2,2,3,4]
+
+# 2. 使用list方法pop删除元素
+# pop removes the item at a specific index and returns it.
+
+li.pop(4)
+# >>> 2
+# >>> li = [1,2,2,3,4]
+
+# 3. 使用list方法remove删除指定值的元素
+# remove removes the first matching value
+
+li.remove(2)
+# >>> li = [1,2,3,2,4]
+
+li.remove(2)
+# >>> li = [1,3,2,4]
+
+# 4. 使用切片删除元素
+
+li = li[:3]+li[4:]
+# >>> li = [1,2,2,2,4]
+```
+
+### Time Complexity
+
+<table>
+<tr>
+    <td><b>Name</b></td>
+    <td><b>Access/Search</b></td>
+    <td><b>Insert</b></td>
+    <td><b>Delete</b></td>
+</tr>
+
+<tr>
+    <td> Array </td>
+    <td> by index : O(1) </br> by value : O(n) </td>
+    <td> tail : O(1) </br> other : O(n) </td>
+    <td> O(n) </td>
+</tr>
+
+<tr>
+    <td> LinkedList </td>
+    <td> head/tail : O(1) </br> other : O(n) </td>
+    <td> head/tail : O(1) </br> other : O(n) </td>
+    <td> head/tail : O(1) </br> other : O(n) </td>
+</tr>
+</table>
+
+[Big O of various operations in current CPython，python官方文档](https://wiki.python.org/moin/TimeComplexity)
+
+[What is the cost/ complexity of insert in list at some location?](https://stackoverflow.com/questions/27073596/what-is-the-cost-complexity-of-insert-in-list-at-some-location)
+
+For Array in Python, insert at tail: append()
+access by index: Get Item
+access by value: Pop intermediate
+
+Linked List, just O(n). O(1) in corner case.
+
+### Related
+
 
 ## LinkedList
 
+### Definition
+
+
+
+### Implement
+
+
+See [here](https://github.com/Vida42/Leetcode/blob/master/Note/DataStructure/LinkedList.py)
+
+### Operation
+
+
+
+### Time Complexity
+
+
+[Performance Analysis of ArrayList and LinkedList in Java，有分析各个情况下该用哪种](https://dzone.com/articles/performance-analysis-of-arraylist-and-linkedlist-i)
+
+### Related
+
+
+
 ## HashMap
+
+### Definition
+
+Map 是一种关联数组的数据结构，也常被称为字典或键值对。
+
+Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+
+### Implement
+
+`dict()` in Python
+
+### Operation
+
+```python
+# three ways to construct a couting dict
+nums = 'here' 
+
+dic = dict()
+for i in nums:
+    if i in dic:
+        dic[i] += 1
+    else:
+        dic[i] = 1
+
+dic = {} 
+for c in nums: 
+    dic[c] = (dic[c] + 1) if (c in dic) else (1)
+
+dic = dict()
+for i in nums:
+    dic[i] = dic.get(i, 0) + 1
+
+# difference between dic.get() and dic[key]: latter would throw KeyError when no such a key exists.
+
+# Get the value of a key, if not exist return default
+dict.get(key, default=None)
+
+# returns keys of a dictionary
+dic.keys()
+
+# return values of a dictionary
+dic.values()
+
+# return (keys,values) tuple of a dict
+dic.items()
+
+# removes the item with the specified key name, return value
+dic.pop(key)
+```
+
+### Time Complexity
+
+**In Python, most dict operations(like `get`, `isin`, `delete` are O(1)**, `copy`) are O(n).
+
+According to *[Time complexity of accessing a Python dict](https://stackoverflow.com/questions/1963507/time-complexity-of-accessing-a-python-dict)* : The python dict is a hashmap, its worst case is therefore O(n) if the hash function is bad and results in a lot of collisions. However that is a very rare case where every item added has the same hash and so is added to the same chain which for a major Python.
+
+[Big O for List, Dictionaries, Sets](https://www.geeksforgeeks.org/complexity-cheat-sheet-for-python-operations/)
+
+[List, Set, Dic in Python](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt)
+
+### Related
 
 ## HashSet
 
+### Definition
+
+A set is a collection which is unordered, unchangeable and unindexed. In Python, sets are written with curly brackets.
+
+### Implement
+
+`set()`
+
+### Operation
+
+```python
+# Add an item to a set
+add()
+# To remove an item in a set
+remove()
+# union() method returns a new set with all items from both sets
+set1 = {"a", "b" , "c"}
+set2 = {1, 2, 3}
+set3 = set1.union(set2)
+```
+
+### Time Complexity
+
+Sets have many more operations that are O(1) compared with lists and tuples. eg: `is in`, `add`, `remove`. `copy` has O(n).
+
+### Related
+
+
 ## Queue
+
+### Definition
+
+- 队列是一个有序列表，可以用数组或者是链表来实现。
+
+- 遵循先进先出的原则。即：先存入队列的数据，要先取出。后存入的要后取出。
+
+### Implement
+
+#### 链表实现
+- [See Here](https://github.com/Vida42/Leetcode/blob/master/Note/DataStructure/LinkedQueue.py)
+
+#### 简单数组实现：
+
+```python
+queue = []  # same as list()
+size = len(queue)
+queue.append(1)
+queue.append(2)
+queue.pop(0) # return 1
+queue[0] # return 2 examine the first element
+```
+
+#### 高效实现：
+
+- `Queue.Queue` or `collections.deque`
+
+`Queue.Queue` and `collections.deque` serve different purposes. Queue.Queue is intended for allowing different threads to communicate using queued messages/data, whereas `collections.deque` is simply intended as a data structure.
+
+> [Queue.queue vs. collections.deque](https://stackoverflow.com/questions/717148/queue-queue-vs-collections-deque)
+
+### Operation
+
+<table>
+<tr>
+    <td><b>Function</b></td>
+    <td><b>collections.deque</b></td>
+    <td><b>Queue.Queue</b></td>
+</tr>
+<tr>
+    <td>enqueue left</td>
+    <td>dq.appendleft()</td>
+    <td> / </td>
+</tr>
+<tr>
+    <td>enqueue right</td>
+    <td>dq.append()</td>
+    <td>queue.put()</td>
+</tr>
+<tr>
+    <td>dequeue left</td>
+    <td>dq.popleft()</td>
+    <td> / </td>
+</tr>
+<tr>
+    <td>dequeue right</td>
+    <td>dq.pop()</td>
+    <td>queue.get()</td>
+</tr>
+<tr>
+    <td>peek left</td>
+    <td>dq[0]</td>
+    <td> / </td>
+</tr>
+<tr>
+    <td>peek right</td>
+    <td>dq[-1]</td>
+    <td> / </td>
+</tr>
+<tr>
+    <td>size</td>
+    <td>len(dq)</td>
+    <td>queue.qsize()</td>
+</tr>
+</table>
+
+Otherwise, Quque.queue has queue.empty() and queue.full()
+
+> [python queue get size, use qsize() or len()?](https://stackoverflow.com/questions/20647274/python-queue-get-size-use-qsize-or-len)
+
+### Time Complexity
+
+<table>
+<tr>
+    <td><b>Name</b></td>
+    <td><b>Append</b></td>
+    <td><b>Pop</b></td>
+    <td><b>Size</b></td>
+    <td><b>Copy</b></td>
+    <td><b>Search</b></td>
+</tr>
+
+<tr>
+    <td> Queue </td>
+    <td> O(1) </td>
+    <td> O(1) </td>
+    <td> O(1) </td>
+    <td> O(n) </td>
+    <td> O(n) </td>
+</tr>
+</table>
+
+以上特性皆显然。No matter Average Case or Amortized Worst Case
+
+### Related
 
 ## Stack
 
-## Tree
+### Definition
+
+栈是一种 LIFO(Last In First Out) 的数据结构，常用方法有添加元素，取栈顶元素，弹出栈顶元素，判断栈是否为空。
+
+### Implement
+
+#### 链表实现
+- [See Here](https://github.com/Vida42/Leetcode/blob/master/Note/DataStructure/LinkedStack.py)
+
+#### 简单数组实现：
+
+可以用list简单实现
+
+#### 高效实现：
+
+- `collections.deque`
+
+### Operation
+
+见上
+
+### Time Complexity
+
+<table>
+<tr>
+    <td><b>Name</b></td>
+    <td><b>Push</b></td>
+    <td><b>Pop</b></td>
+    <td><b>Top</b></td>
+    <td><b>Size</b></td>
+    <td><b>Copy</b></td>
+    <td><b>Search</b></td>
+</tr>
+
+<tr>
+    <td> Stack </td>
+    <td> O(1) </td>
+    <td> O(1) </td>
+    <td> O(1) </td>
+    <td> O(1) </td>
+    <td> O(n) </td>
+    <td> O(n) </td>
+</tr>
+</table>
+
+For all the standard stack operations (push, pop, isEmpty, size), the worst-case run-time complexity can be O(1).([Notes on Stacks](http://pages.cs.wisc.edu/~siff/CS367/Notes/stacks.html))
+
+### Related
+
 
 ## Heap
 
+### Definition
+
+一般情况下，堆通常指的是**二叉堆**，**二叉堆**是一个近似**完全二叉树**的数据结构，但由于对二叉树平衡及插入/删除操作较为麻烦，二叉堆实际上使用数组来实现。即物理结构为数组，逻辑结构为完全二叉树。子结点的键值或索引总是小于（或者大于）它的父节点，且每个节点的左右子树又是一个**二叉堆**(大根堆或者小根堆)。根节点最大的堆叫做最大堆或大根堆，根节点最小的堆叫做最小堆或小根堆。常被用作实现**优先队列**。
+
+**优先队列**，名字里带队列，形式上是一种队列的形式(数组)，但其实和队列的概念无关，是一种独立的抽象数据类型，可以用二叉堆这种特殊的树结构实现(see [HERE](https://github.com/Vida42/Leetcode/blob/master/Note/2019begins/Heap.md))。
+
+在索引从0开始的数组中：
+
+- 父节点 i 的左子节点在位置(2 * i+1)
+
+- 父节点 i 的右子节点在位置(2 * i+2)
+
+- 子节点 i 的父节点在位置floor((i-1)/2)
+
+### Implement
+
+`heapq` which maintains a `min heap`
+
+### Operation
+
+创建堆：将堆所有数据重新排序
+
+堆调整：将堆的末端子节点作调整，使得子节点永远大于父节点
+
+堆排序：移除位于第一个数据的根节点，并做堆调整的递归运算
+
+```python
+heapq.heapify(x)
+
+heapq.heappush(heap, item)
+
+heapq.heappop(heap)
+
+```
+
+### Time Complexity
+
+<table>
+<tr>
+    <td><b>Name</b></td>
+    <td><b>Insert</b></td>
+    <td><b>Find Min/Max</b></td>
+    <td><b>Delete Min/Max</b></td>
+    <td><b>Extract Min/Max</b></td>
+    <td><b>Delete</b></td>
+    <td><b>Search</b></td>
+</tr>
+
+<tr>
+    <td> Heap/PriorityQueue </td>
+    <td> O(log n) </td>
+    <td> O(1) </td>
+    <td> O(log n) </td>
+    <td> O(log n) </td>
+    <td> O(n) </td>
+    <td> O(n) </td>
+</tr>
+</table>
+
+`heapq` is a binary heap, with O(log n) `push` and O(log n) `pop`. See the [here](https://stackoverflow.com/questions/38806202/whats-the-time-complexity-of-functions-in-heapq-library).
+
+`push` means Insert; `pop` means Extract/Delete Min/Max, this requires rebuild heap, which is O(log n).
+
+Delete and Search is O(n) because we will have to scan all the elements as they are not ordered like BST.
+
+The big O of building a heap is O(n). See [here](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+
+### Related
+
+## Tree
+
+### Definition
+
+- 二叉树：每个结点最多有两个子树的树结构。
+
+- 满二叉树：树中每个分支结点（非叶结点）都有两棵非空子树
+
+> 这应该是full binary tree
+
+![满二叉树](https://github.com/Vida42/Leetcode/blob/master/Pic/cap1.PNG)
+
+- 完全二叉树(complete binary tree)：对于一个树高为h的二叉树，如果其第0层至第h-1层的节点都满。如果最下面一层节点不满，则所有的节点在左边的连续排列，空位都在右边。这样的二叉树就是一棵完全二叉树。
+
+![完全二叉树](https://github.com/Vida42/Leetcode/blob/master/Pic/cap2.PNG)
+
+- perfect binary tree: Every node except the leaf nodes have two children and every level (last level too) is completely filled
+
+![](https://github.com/Vida42/Leetcode/blob/master/Pic/cap3.PNG)
+
+
+[Source](http://courses.cs.vt.edu/~cs3114/Summer14/Notes/T03_BinaryTreeTheorems.pdf)
+
+如果根节点算第一层：
+
+- 二叉树的第i层至多有 2^{i-1}个结点
+
+- 深度为k的二叉树至多有 2^k-1个结点
+
+### Implement
+
+```python
+class TreeNode:
+    def __init__(self, val):
+        self.val = val
+        self.left = None
+        self.right = None
+```
+
+### Operation
+
+> 从二叉树的根节点出发，节点的遍历分为三个主要步骤：对当前节点进行操作（称为“访问”节点）、遍历左边子节点、遍历右边子节点。访问节点顺序的不同也就形成了不同的遍历方式。需要注意的是树的遍历通常使用递归的方法进行理解和实现。按照访问元素的前后顺序，遍历方式可划分为如下几种：
+
+* 深度优先
+    * 1. 先序(pre-order)：根左右
+    * 2. 中序(in-order)：左根右
+    * 3. 后序(post-order)：左右根
+* 广度优先
+    * 层序(level-order)
+
+> 对树相关的题进行复杂度分析时可统计对每个节点被访问的次数，进而求得总的时间复杂度。
+
+
+满足以下性质的二叉树是一颗二叉搜索树：
+
+* 若左子树不为空，左子树上所有节点的值都小于根节点的值；
+* 若右子树不为空，右子树上所有节点的值都大于根节点的值；
+* 它的左右子树也分别是二叉搜索树。
+
+使用中序遍历可得到有序数组，这是二叉查找树的又一个重要特征。
+
+
+### Time Complexity
+
+Binary Search Tree:
+
+Insert, delete and search:
+
+Average case: O(log n), Worst Case: O(n)
+
+[Binary tree has worst case complexity of O(n). In general, time complexity is O(h) where h is height of BST](https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/).
+
+Another [example](http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/9-BinTree/bin-tree.html) explains the relationship between height and nodes of a binary tree.
+
+### Related
+
+[Some exercises](https://github.com/Vida42/Leetcode/tree/master/Note/DataStructure/TreeExercise.md)
 
 # Sort
 
@@ -613,12 +1184,13 @@ def max_heapify(ary,start,end):
 
 ## Branch and Bound
 
+[牛皮的数据结构和算法可视化](https://visualgo.net/en)
 
-[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+[old school风的Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-[Sorting algorithm Wikipedia ](https://en.wikipedia.org/wiki/Sorting_algorithm#Non-comparison_sorts)
+[Sorting algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm#Non-comparison_sorts)
 
-[Basic Sorting](https://algorithm.yuanbin.me/zh-hans/basics_sorting/)
+[Basic Data Structure and Sorting and Algorithms by billryan](https://algorithm.yuanbin.me/zh-hans/part_i_basics/)
 
 [经典排序算法总结与实现](http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/)
 
