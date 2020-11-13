@@ -501,7 +501,70 @@ SEVEN
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/215._Kth_Largest_Element_in_an_Array.md">Sort</a></td>
     <td>10/25/20</td>
 </tr>
-
+<tr>
+    <td rowspan="1"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Queue </a> </td>
+    <td>225. Implement Stack using Queues</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/225._Implement_Stack_using_Queues.md">Queue</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td rowspan="2"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Stack </a> </td>
+    <td>232. Implement Queue using Stacks</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/232._Implement_Queue_using_Stacks.md">Stack</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td>155. Min Stack</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/155._Min_Stack.md">Stack</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: HashMap </a> </td>
+    <td>706. Design HashMap</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/706._Design_HashMap.md">HashMap</a></td>
+    <td>11/11/20</td>
+</tr>
+<tr>
+    <td>129. Rehashing</td>
+    <td>M:zap:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L129._Rehashing.md">HashMap</a></td>
+    <td>11/11/20</td>
+</tr>
+<tr>
+    <td>146. LRU Cache</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/146._LRU_Cache.md">HashMap</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Design </a> </td>
+    <td>341. Flatten Nested List Iterator</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/341._Flatten_Nested_List_Iterator.md">Queue</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td>173. Binary Search Tree Iterator</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/173._Binary_Search_Tree_Iterator.md">Stack/Tree</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td>281. Zigzag Iterator</td>
+    <td>M:lock:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/281._Zigzag_Iterator.md">Queue</a></td>
+    <td>11/12/20</td>
+</tr>
+<tr>
+    <td>251. Flatten 2D Vector</td>
+    <td>M:lock:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/251._Flatten_2D_Vector.md">Iterator</a></td>
+    <td>11/12/20</td>
+</tr>
 
 </table>
 

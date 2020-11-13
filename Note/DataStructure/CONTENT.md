@@ -372,11 +372,11 @@ queue[0] # return 2 examine the first element
 
 #### 高效实现：
 
-- `Queue.Queue` or `collections.deque`
+- `queue.Queue` or `collections.deque`
 
-`Queue.Queue` and `collections.deque` serve different purposes. Queue.Queue is intended for allowing different threads to communicate using queued messages/data, whereas `collections.deque` is simply intended as a data structure.
+`queue.Queue` and `collections.deque` serve different purposes. queue.Queue is intended for allowing different threads to communicate using queued messages/data, whereas `collections.deque` is simply intended as a data structure.
 
-> [Queue.queue vs. collections.deque](https://stackoverflow.com/questions/717148/queue-queue-vs-collections-deque)
+> [queue.Queue vs. collections.deque](https://stackoverflow.com/questions/717148/queue-queue-vs-collections-deque)
 
 ### Operation
 
@@ -384,7 +384,7 @@ queue[0] # return 2 examine the first element
 <tr>
     <td><b>Function</b></td>
     <td><b>collections.deque</b></td>
-    <td><b>Queue.Queue</b></td>
+    <td><b>queue.Queue</b></td>
 </tr>
 <tr>
     <td>enqueue left</td>
@@ -573,6 +573,8 @@ heapq.heappop(heap)
 Delete and Search is O(n) because we will have to scan all the elements as they are not ordered like BST.
 
 The big O of building a heap is O(n). See [here](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+
+九章提到PriorityQueue的delete是O(n)，但heap的也是logn。如果需要比O(n)小的删除操作，用TreeMap，支持各种操作皆为logn。
 
 ### Related
 
