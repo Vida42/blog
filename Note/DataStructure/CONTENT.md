@@ -534,10 +534,14 @@ For all the standard stack operations (push, pop, isEmpty, size), the worst-case
 堆排序：移除位于第一个数据的根节点，并做堆调整的递归运算
 
 ```python
+
+# To create a heap, use a list initialized to []
+# or you can transform a populated list into a heap via function heapify().
 heapq.heapify(x)
 
 heapq.heappush(heap, item)
 
+# Pop and return the smallest item from the heap
 heapq.heappop(heap)
 
 ```
@@ -566,13 +570,15 @@ heapq.heappop(heap)
 </tr>
 </table>
 
-`heapq` is a binary heap, with O(log n) `push` and O(log n) `pop`. See the [here](https://stackoverflow.com/questions/38806202/whats-the-time-complexity-of-functions-in-heapq-library).
+`heapq` is a binary heap, with O(log n) `push` and O(log n) `pop`. See [here](https://stackoverflow.com/questions/38806202/whats-the-time-complexity-of-functions-in-heapq-library).
 
 `push` means Insert; `pop` means Extract/Delete Min/Max, this requires rebuild heap, which is O(log n).
 
 Delete and Search is O(n) because we will have to scan all the elements as they are not ordered like BST.
 
-The big O of building a heap is O(n). See [here](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+The big O of building a heap is O(n). See [here](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity).
+
+heapify() actually takes linear time because the approach is different than calling heapq.push() N times.
 
 九章提到PriorityQueue的delete是O(n)，但heap的也是logn。如果需要比O(n)小的删除操作，用TreeMap，支持各种操作皆为logn。
 

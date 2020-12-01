@@ -4,9 +4,9 @@
 > 
 >       —— “The Feynman Algorithm” as described by Murray Gell-Mann
 
-:zap:   lintcode
-
 :lock:  lock
+
+:zap:   lintcode
 
 SEVEN
 ------
@@ -522,7 +522,7 @@ SEVEN
     <td>11/12/20</td>
 </tr>
 <tr>
-    <td rowspan="3"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: HashMap </a> </td>
+    <td rowspan="9"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: HashMap </a> </td>
     <td>706. Design HashMap</td>
     <td>E</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/706._Design_HashMap.md">HashMap</a></td>
@@ -537,8 +537,44 @@ SEVEN
 <tr>
     <td>146. LRU Cache</td>
     <td>M</td>
-    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/146._LRU_Cache.md">HashMap</a></td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/146._LRU_Cache.md">LinkedList & dict for O(1)</a></td>
     <td>11/12/20</td>
+</tr>
+<tr>
+    <td>460. LFU Cache</td>
+    <td>H</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/460._LFU_Cache.md">DoubleLinkedList & dict for O(1)</a></td>
+    <td>11/19/20</td>
+</tr>
+<tr>
+    <td>560. Subarray Sum Equals K</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/560._Subarray_Sum_Equals_K.md">3 ways</a></td>
+    <td>11/20/20</td>
+</tr>
+<tr>
+    <td>49. Group Anagrams</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/49._Group_Anagrams.md">2 ways</a></td>
+    <td>11/20/20</td>
+</tr>
+<tr>
+    <td>138. Copy List with Random Pointer</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/138._Copy_List_with_Random_Pointer.md">2 ways</a></td>
+    <td>11/23/20</td>
+</tr>
+<tr>
+    <td>242. Valid Anagram</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/242._Valid_Anagram.md">2 ways</a></td>
+    <td>11/24/20</td>
+</tr>
+<tr>
+    <td>438. Find All Anagrams in a String</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/438._Find_All_Anagrams_in_a_String.md">sliding window</a></td>
+    <td>11/24/20</td>
 </tr>
 <tr>
     <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Design </a> </td>
@@ -565,10 +601,49 @@ SEVEN
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/251._Flatten_2D_Vector.md">Iterator</a></td>
     <td>11/12/20</td>
 </tr>
+<tr>
+    <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Heap </a> </td>
+    <td>692. Top K Frequent Words</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/692._Top_K_Frequent_Words.md">3 ways</a></td>
+    <td>11/20/20</td>
+</tr>
+<tr>
+    <td>347. Top K Frequent Elements</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/347._Top_K_Frequent_Elements.md">same as 692</a></td>
+    <td>11/20/20</td>
+</tr>
+<tr>
+    <td>130. Heapify</td>
+    <td>M:zap:</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/L130._Heapify.md">heapify</a></td>
+    <td>11/24/20</td>
+</tr>
+<tr>
+    <td>264. Ugly Number II</td>
+    <td>M</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/264._Ugly_Number_II.md">heap or dp</a></td>
+    <td>11/24/20</td>
+</tr>
+<tr>
+    <td>703. Kth Largest Element in a Stream</td>
+    <td>E</td>
+    <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/703._Kth_Largest_Element_in_a_Stream.md">maintain a heap</a></td>
+    <td>11/24/20</td>
+</tr>
 
 </table>
 
-
+> 11.25开了会员
+> 提交了些以前做过的锁题，频率都比较低:
+> 157, 170, 243, 246, 251, 252, 261, 266, 270, 281, 293, 294, 702, 1099
+> 
+> 简化warehouse文件名，只留number
+> 内部不再标lock or not，只在readme标明
+> 难度采用shields.io
+> 内容：Description + Approach + code + Conclusion + time
+> 后续Refrain + Finale + Encore
 
 
 Reference Links
