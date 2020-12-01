@@ -602,7 +602,7 @@ SEVEN
     <td>11/12/20</td>
 </tr>
 <tr>
-    <td rowspan="4"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Heap </a> </td>
+    <td rowspan="5"> <a href="https://github.com/Vida42/Leetcode/blob/master/Note/8_Data_Structure.md"> :white_check_mark: Heap </a> </td>
     <td>692. Top K Frequent Words</td>
     <td>M</td>
     <td><a href="https://github.com/Vida42/Leetcode/blob/master/Warehouse/692._Top_K_Frequent_Words.md">3 ways</a></td>
