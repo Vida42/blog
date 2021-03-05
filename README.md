@@ -4,6 +4,8 @@
 > 
 >       —— “The Feynman Algorithm” as described by Murray Gell-Mann
 
+[NOTE](https://github.com/Vida42/Leetcode/blob/master/Note/DataStructure/CONTENT.md)
+
 :lock:  lock
 
 :zap:   lintcode
@@ -635,15 +637,14 @@ SEVEN
 
 </table>
 
-> 11.25开了会员
-> 提交了些以前做过的锁题，频率都比较低:
+> 11.25开了会员，提交了些以前做过的锁题，频率都比较低:
 > 157, 170, 243, 246, 251, 252, 261, 266, 270, 281, 293, 294, 702, 1099
 > 
-> 简化warehouse文件名，只留number
-> 内部不再标lock or not，只在readme标明
-> 难度采用shields.io
-> 内容：Description + Approach + code + Conclusion + time
-> 后续Refrain + Finale + Encore
+> 简化warehouse内文件：
+> - 文件名只留number
+> - 内部不再标lock or not，只在readme标明，难度采用shields.io
+> - 内容：Description + Approach + code + Conclusion + time
+> - 后续Refrain + Finale + Encore
 
 
 Reference Links

@@ -399,12 +399,12 @@ queue[0] # return 2 examine the first element
 <tr>
     <td>dequeue left</td>
     <td>dq.popleft()</td>
-    <td> / </td>
+    <td> queue.get() </td>
 </tr>
 <tr>
     <td>dequeue right</td>
     <td>dq.pop()</td>
-    <td>queue.get()</td>
+    <td> / </td>
 </tr>
 <tr>
     <td>peek left</td>
@@ -426,6 +426,16 @@ queue[0] # return 2 examine the first element
 Otherwise, Quque.queue has queue.empty() and queue.full()
 
 > [python queue get size, use qsize() or len()?](https://stackoverflow.com/questions/20647274/python-queue-get-size-use-qsize-or-len)
+
+```python
+from queue import Queue
+q = Queue()
+q.put(1)
+q.put(2)
+q.put(3)
+q.get()
+# >>> 1
+```
 
 ### Time Complexity
 
@@ -580,7 +590,7 @@ The big O of building a heap is O(n). See [here](https://stackoverflow.com/quest
 
 heapify() actually takes linear time because the approach is different than calling heapq.push() N times.
 
-九章提到PriorityQueue的delete是O(n)，但heap的也是logn。如果需要比O(n)小的删除操作，用TreeMap，支持各种操作皆为logn。
+九章提到PriorityQueue的delete是O(n)，如果需要比O(n)小的删除操作，用TreeMap，支持各种操作皆为logn。
 
 ### Related
 
